@@ -10,3 +10,15 @@ E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng
 E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.csproj.CopyComplete
 E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.dll
 E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.pdb
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\bin\Debug\netstandard2.0\Cheng.Model.deps.json
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\bin\Debug\netstandard2.0\Cheng.Model.dll
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\bin\Debug\netstandard2.0\Cheng.Model.pdb
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\bin\Debug\netstandard2.0\Cheng.Comon.dll
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\bin\Debug\netstandard2.0\Cheng.Comon.pdb
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.csprojAssemblyReference.cache
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.AssemblyInfoInputs.cache
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.AssemblyInfo.cs
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.csproj.CoreCompileInputs.cache
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.csproj.CopyComplete
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.dll
+E:\mycode\core\xuexi\trunk\Cheng.Core\Cheng.Model\obj\Debug\netstandard2.0\Cheng.Model.pdb
