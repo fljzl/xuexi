@@ -1,0 +1,16 @@
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Extensions.deps.json
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Extensions.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Extensions.pdb
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Comon.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Model.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Service.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Comon.pdb
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Model.pdb
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\bin\Debug\netstandard2.0\Cheng.Service.pdb
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.csprojAssemblyReference.cache
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.AssemblyInfoInputs.cache
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.AssemblyInfo.cs
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.csproj.CoreCompileInputs.cache
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.csproj.CopyComplete
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Extensions\obj\Debug\netstandard2.0\Cheng.Extensions.pdb

@@ -1,0 +1,9 @@
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\bin\Debug\netstandard2.0\Cheng.Comon.deps.json
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\bin\Debug\netstandard2.0\Cheng.Comon.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\bin\Debug\netstandard2.0\Cheng.Comon.pdb
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\obj\Debug\netstandard2.0\Cheng.Comon.csprojAssemblyReference.cache
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\obj\Debug\netstandard2.0\Cheng.Comon.AssemblyInfoInputs.cache
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\obj\Debug\netstandard2.0\Cheng.Comon.AssemblyInfo.cs
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\obj\Debug\netstandard2.0\Cheng.Comon.csproj.CoreCompileInputs.cache
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\obj\Debug\netstandard2.0\Cheng.Comon.dll
+E:\mycode\cheng.core\trunk\Cheng.Core\Cheng.Core\obj\Debug\netstandard2.0\Cheng.Comon.pdb
