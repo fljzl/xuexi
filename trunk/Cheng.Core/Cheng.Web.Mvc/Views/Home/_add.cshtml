@@ -1,0 +1,16 @@
+﻿@*部分视图传值1*@
+@model ChuanZhiModel
+@{
+    @*部分视图传值2*@
+    var onedate = ViewBag.data as ChuanZhiModel;
+}
+
+<div>
+
+    @Model.Name
+</div>
+<div>
+    @onedate?.Name
+</div>
+
+<link href="#" rel="stylesheet" asp-append-version="true" />

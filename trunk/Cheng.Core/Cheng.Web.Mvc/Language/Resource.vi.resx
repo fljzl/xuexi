@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TYJS_000303" xml:space="preserve">
+    <value>Vừa đăng</value>
+  </data>
+  <data name="TYJS_000297" xml:space="preserve">
+    <value>Tin chợ vụ_ Nhập thô - WikiFX</value>
+  </data>
+  <data name="TYJS_000299" xml:space="preserve">
+    <value>Thị trường, chợ buôn lậu, WikiLFX, dealer news, dealer platform, platform construction, IB investment Promise, Chợ phân tích, EA relative, Nghe đồn, sếp trực tiếp</value>
+  </data>
+  <data name="TYJS_000295" xml:space="preserve">
+    <value>Xây dựng Website</value>
+  </data>
+  <data name="TYJS_000293" xml:space="preserve">
+    <value>Xây dựng MT4</value>
+  </data>
+  <data name="TYJS_000298" xml:space="preserve">
+    <value>Thị trường, tin tức chợ bán hàng được sở hữu bởi WikiLFX, gồm xây dựng các platform, dễ dàng phát triển doanh thu, phân tích thị trường, cách phân tích,</value>
+  </data>
+  <data name="TYJS_000289" xml:space="preserve">
+    <value>Tham gia vào</value>
+  </data>
+  <data name="TYJS_000291" xml:space="preserve">
+    <value>Không yêu cầu cung cấp</value>
+  </data>
+  <data name="TYJS_000296" xml:space="preserve">
+    <value>Ứng dụng tra cứu giấy phép sàn môi giới toàn cầu</value>
+  </data>
+  <data name="TYJS_000294" xml:space="preserve">
+    <value>Xây dựng CRM</value>
+  </data>
+  <data name="TYJS_000292" xml:space="preserve">
+    <value>Tôi cũng muốn bình luận.</value>
+  </data>
+  <data name="TYJS_000290" xml:space="preserve">
+    <value>Hãy chọn các loại thích hợp</value>
+  </data>
+  <data name="TYJS_000285" xml:space="preserve">
+    <value>Chu kỳ bồi hoàn</value>
+  </data>
+  <data name="TYJS_000288" xml:space="preserve">
+    <value>Đánh giá tương tác</value>
+  </data>
+  <data name="TYJS_000287" xml:space="preserve">
+    <value>Đã hủy thành công</value>
+  </data>
+  <data name="TYJS_000284" xml:space="preserve">
+    <value>Chọn thời gian</value>
+  </data>
+  <data name="TYJS_000283" xml:space="preserve">
+    <value>Vui lòng nhập một địa chỉ chính thức</value>
+  </data>
+  <data name="TYJS_000286" xml:space="preserve">
+    <value>Khu vực làm việc</value>
+  </data>
+  <data name="TYJS_000282" xml:space="preserve">
+    <value>Lý do từ chối</value>
+  </data>
+  <data name="TYJS_000280" xml:space="preserve">
+    <value>Thiết kế giao diện chính thức</value>
+  </data>
+  <data name="TYJS_000279" xml:space="preserve">
+    <value>Thiết kế CRM</value>
+  </data>
+  <data name="TYJS_000276" xml:space="preserve">
+    <value>Tổng kết thanh toán</value>
+  </data>
+  <data name="TYJS_000281" xml:space="preserve">
+    <value>Khác</value>
+  </data>
+  <data name="TYJS_000275" xml:space="preserve">
+    <value>Kết tháng</value>
+  </data>
+  <data name="TYJS_000278" xml:space="preserve">
+    <value>Thiết kế MT4</value>
+  </data>
+  <data name="TYJS_000271" xml:space="preserve">
+    <value>Hỗ trợ</value>
+  </data>
+  <data name="TYJS_000273" xml:space="preserve">
+    <value>Kết ngày</value>
+  </data>
+  <data name="TYJS_000277" xml:space="preserve">
+    <value>Thỏa thuận</value>
+  </data>
+  <data name="TYJS_000272" xml:space="preserve">
+    <value>Không hỗ trợ</value>
+  </data>
+  <data name="TYJS_000270" xml:space="preserve">
+    <value>Cơ quan cấp phép</value>
+  </data>
+  <data name="TYJS_000274" xml:space="preserve">
+    <value>Kết tuần</value>
+  </data>
+  <data name="TYJS_000266" xml:space="preserve">
+    <value>Đăng {0} Thông tin_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000267" xml:space="preserve">
+    <value>Thị trường, Trader Market News thuộc về WikiFX, bao gồm tám phần chính của việc xây dựng nền tảng trong WikiFX, xúc tiến đầu tư IB, phân tích thị trường, liên quan đến EA, tin đồn, việc làm trực tiếp của ông chủ, thông tin triển lãm, tiếp xúc, v.v.</value>
+  </data>
+  <data name="TYJS_000269" xml:space="preserve">
+    <value>Chuyển nhượng giấy phép</value>
+  </data>
+  <data name="TYJS_000265" xml:space="preserve">
+    <value>{0}, ngoại vi EA, thương nhân EA liên quan, Thị trường, WikiFX</value>
+  </data>
+  <data name="TYJS_000268" xml:space="preserve">
+    <value>Thị trường, Thị trường thương nhân, WikiFX, Tin tức thương nhân, Nền tảng thương nhân, Xây dựng nền tảng, Xúc tiến đầu tư IB, Phân tích thị trường, EA liên quan, Nghe tin, Việc làm trực tiếp của ông chủ, Thông tin triển lãm thương nhân, Thương nhân tiếp xúc toàn cầu</value>
+  </data>
+  <data name="TYJS_000261" xml:space="preserve">
+    <value>Những lợi thế của tất cả các loại EA có thể được nhìn thấy ở đây. Xu hướng, xu hướng và EA giao dịch định lượng là điểm bán hàng lớn nhất của các nhà giao dịch và bạn có thể mua chúng theo ý muốn.</value>
+  </data>
+  <data name="TYJS_000264" xml:space="preserve">
+    <value>Những lợi thế của tất cả các loại EA có thể được nhìn thấy ở đây. Xu hướng, xu hướng và EA giao dịch định lượng là điểm bán hàng lớn nhất của các nhà giao dịch và bạn có thể mua chúng theo ý muốn.</value>
+  </data>
+  <data name="TYJS_000263" xml:space="preserve">
+    <value>{0} _Theicator_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000260" xml:space="preserve">
+    <value>Các chỉ số giao dịch của Trader_Theicators_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000262" xml:space="preserve">
+    <value>EA ngoại vi, thương nhân EA liên quan, Thị trường, WikiFX</value>
+  </data>
+  <data name="TYJS_000259" xml:space="preserve">
+    <value>{0} _Trader EA liên quan, EA, đại lý EA, mã nguồn EA, ngoại vi EA, chiến lược giao dịch EA, dữ liệu giao dịch EA, Market, WikiFX</value>
+  </data>
+  <data name="TYJS_000257" xml:space="preserve">
+    <value>{0} _EA Liên quan_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000256" xml:space="preserve">
+    <value>Trader EA liên quan, EA, đại lý EA, mã nguồn EA, ngoại vi EA, chiến lược giao dịch EA, dữ liệu giao dịch EA, Market, WikiFX</value>
+  </data>
+  <data name="TYJS_000255" xml:space="preserve">
+    <value>EA liên quan đến thương nhân bao gồm các đại lý EA, mã nguồn EA, thiết bị ngoại vi EA và các cột khác, chủ yếu dành cho chiến lược giao dịch EA, dữ liệu giao dịch EA, v.v., cho phép các nhà giao dịch và người hành nghề lựa chọn cung và cầu</value>
+  </data>
+  <data name="TYJS_000258" xml:space="preserve">
+    <value>EA liên quan đến thương nhân bao gồm các đại lý EA, mã nguồn EA, thiết bị ngoại vi EA và các cột khác, chủ yếu dành cho chiến lược giao dịch EA, dữ liệu giao dịch EA, v.v., cho phép các nhà giao dịch và người hành nghề lựa chọn cung và cầu</value>
+  </data>
+  <data name="TYJS_000251" xml:space="preserve">
+    <value>{0} _ Tin tức công nghiệp_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000252" xml:space="preserve">
+    <value>Thương nhân đã nghe những câu chuyện về các nhân vật hàng đầu trong ngành. Bạn biết bao nhiêu Đưa bạn qua những câu chuyện huyền thoại của những nhân vật này</value>
+  </data>
+  <data name="TYJS_000249" xml:space="preserve">
+    <value>Chi tiết thông tin ngành, chi tiết tin tức, chi tiết cung và cầu, chi tiết tiếp xúc, bộ sưu tập nội dung, nội dung được nghe, không được đảm bảo là đúng</value>
+  </data>
+  <data name="TYJS_000254" xml:space="preserve">
+    <value>Trader EA liên quan_EA liên quan_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000250" xml:space="preserve">
+    <value>Thương nhân nói tin đồn, công nghiệp truyền bá, Thị trường, WikiFX</value>
+  </data>
+  <data name="TYJS_000253" xml:space="preserve">
+    <value>{0}, người giao dịch tin đồn, Thị trường, WikiFX, truyền thuyết, ghi chú cuộc sống</value>
+  </data>
+  <data name="TYJS_000247" xml:space="preserve">
+    <value>{0}, phân tích thị trường của thương nhân, Thị trường, WikiFX, chiến lược giao dịch, xu hướng</value>
+  </data>
+  <data name="TYJS_000243" xml:space="preserve">
+    <value>Các thương nhân và các học viên phân tích dữ liệu thị trường gần đây trong ngành và chia sẻ chúng trong cột phân tích thị trường để nhiều thương nhân và các học viên hiểu hơn về thị trường. Các vị thần ở đây, bạn sẽ biết trong nháy mắt</value>
+  </data>
+  <data name="TYJS_000248" xml:space="preserve">
+    <value>Tin tức kinh doanh thương mại_ Tin tức công nghiệp_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000245" xml:space="preserve">
+    <value>{0} _Phân tích thị trường_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000242" xml:space="preserve">
+    <value>Phân tích thị trường đại lý_Market Phân tích_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000244" xml:space="preserve">
+    <value>Phân tích thị trường đại lý, phân tích thị trường, tương lai, vàng, ngoại hối, Thị trường, WikiFX</value>
+  </data>
+  <data name="TYJS_000246" xml:space="preserve">
+    <value>Trong phân tích thị trường, thương nhân và học viên sẽ bắt đầu từ các xu hướng hiện tại và chiến lược giao dịch, phân tích dữ liệu gần đây, phản ánh xu hướng gần đây và hiển thị dữ liệu thời gian thực</value>
+  </data>
+  <data name="TYJS_000241" xml:space="preserve">
+    <value>{0}, được thuê trực tiếp bởi ông chủ giao dịch, Market, WikiFX, thương nhân, thương nhân, học viên, IB</value>
+  </data>
+  <data name="TYJS_000240" xml:space="preserve">
+    <value>Thương nhân, thương nhân, học viên, IB, nền tảng để tuyển dụng các cá nhân và nhóm siêu xuất sắc, miễn là họ xuất sắc, bạn đến</value>
+  </data>
+  <data name="TYJS_000237" xml:space="preserve">
+    <value>Thương nhân, thương nhân, học viên, IB, nền tảng để tuyển dụng các cá nhân và nhóm siêu xuất sắc, miễn là họ xuất sắc, bạn đến</value>
+  </data>
+  <data name="TYJS_000238" xml:space="preserve">
+    <value>Ông chủ của Trader trực tiếp thuê, Market, WikiFX, thương nhân, học viên, IB</value>
+  </data>
+  <data name="TYJS_000235" xml:space="preserve">
+    <value>{0}, giao dịch EA, đầu tư IB thương nhân, đầu tư IB, Thị trường, WikiFX, trợ giúp trong nước ngoài, giảm giá</value>
+  </data>
+  <data name="TYJS_000239" xml:space="preserve">
+    <value>{0} _Thông tin thông tin_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000236" xml:space="preserve">
+    <value>Ông chủ của Trader đã thuê trực tiếp_Thông tin chi tiết_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000233" xml:space="preserve">
+    <value>{0} _IB Thương nhân_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000234" xml:space="preserve">
+    <value>Trang web chính thức xúc tiến đầu tư, trang đầu tư IB của thương nhân bao gồm giao dịch EA, trợ giúp trong nước ngoài, phí hoàn trả hoa hồng, thời gian hoàn tiền hoa hồng, mô tả sản phẩm và phần album thị trường, chủ yếu để tìm các tổ chức và cá nhân giới thiệu tài khoản và nhận hoa hồng</value>
+  </data>
+  <data name="TYJS_000231" xml:space="preserve">
+    <value>Đầu tư Trader IB, tổ chức hoặc cá nhân chấp nhận hoa hồng, giới thiệu khách hàng mở tài khoản và tính một khoản hoa hồng nhất định. Đầu tư chính thức là đáng tin cậy</value>
+  </data>
+  <data name="TYJS_000232" xml:space="preserve">
+    <value>Đầu tư Trader IB, Đầu tư IB, Thị trường, WikiFX, Ủy ban, Đầu tư chính thức</value>
+  </data>
+  <data name="TYJS_000229" xml:space="preserve">
+    <value>{0}, thông tin triển lãm thương nhân, triển lãm thương nhân, Thị trường, WikiFX</value>
+  </data>
+  <data name="TYJS_000230" xml:space="preserve">
+    <value>Triển lãm thương mại IB Merchants_IB Merchants_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000228" xml:space="preserve">
+    <value>Về chủ đề của triển lãm, thời gian diễn ra sự kiện, trang web chính thức, thành phố chủ nhà, số lượng người ước tính, giá vé và chi tiết triển lãm. Có dữ liệu chi tiết để bạn duyệt ở đây</value>
+  </data>
+  <data name="TYJS_000223" xml:space="preserve">
+    <value>{0}, xây dựng nền tảng, xây dựng nền tảng thương nhân, Thị trường, WikiFX</value>
+  </data>
+  <data name="TYJS_000227" xml:space="preserve">
+    <value>{0} _Thông tin cấm thông tin Tiếp thị-WikiFX</value>
+  </data>
+  <data name="TYJS_000225" xml:space="preserve">
+    <value>Các thương nhân toàn cầu, thương nhân, học viên, IB, và các diễn đàn triển lãm có thể được nhìn thấy ở đây, bạn biết và don sắt biết đang ở đây, nếu bạn muốn đi, hãy xem</value>
+  </data>
+  <data name="TYJS_000224" xml:space="preserve">
+    <value>Thông tin triển lãm thương nhân_Thông tin cấm quảng cáo_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000226" xml:space="preserve">
+    <value>Thông tin về chương trình thương nhân, Triển lãm thương nhân, Thị trường, WikiFX, Triển lãm, Diễn đàn, Salon, Nhà giao dịch toàn cầu, Nhà giao dịch, Nhà thực hành, IB</value>
+  </data>
+  <data name="TYJS_000220" xml:space="preserve">
+    <value>Thị trường, WikiFX, Nền tảng thương nhân, Xây dựng nền tảng, Kênh thanh toán, Chuyển nhượng giấy phép, Mua giấy phép, Đại lý cấp phép</value>
+  </data>
+  <data name="TYJS_000221" xml:space="preserve">
+    <value>{0} _Quản lý xây dựng_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000217" xml:space="preserve">
+    <value>Nhập nội dung trả lời</value>
+  </data>
+  <data name="TYJS_000219" xml:space="preserve">
+    <value>Việc xây dựng nền tảng đại lý nằm dưới Thị trường, thuộc về WikiFX. Việc xây dựng nền tảng đại lý bao gồm xây dựng nền tảng, kênh thanh toán, chuyển nhượng giấy phép, mua giấy phép, đại lý giấy phép, v.v.</value>
+  </data>
+  <data name="TYJS_000218" xml:space="preserve">
+    <value>Xây dựng nền tảng thương nhân_ Nền tảng xây dựng_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000222" xml:space="preserve">
+    <value>Trang xây dựng nền tảng của nhà giao dịch bao gồm các tiêu đề được xuất bản bởi các đại lý và người hành nghề, loại nền tảng, báo giá dự án, mô tả sản phẩm, giới thiệu công ty và album thị trường. Các mô tả sản phẩm giải thích nhu cầu xây dựng nền tảng của các đại lý và các học viên.</value>
+  </data>
+  <data name="TYJS_000215" xml:space="preserve">
+    <value>Tìm kiếm thị trường hợp tác</value>
+  </data>
+  <data name="TYJS_000213" xml:space="preserve">
+    <value>Xây dựng hệ thống</value>
+  </data>
+  <data name="TYJS_000212" xml:space="preserve">
+    <value>Định dạng ảnh không hợp lệ</value>
+  </data>
+  <data name="TYJS_000214" xml:space="preserve">
+    <value>Chi tiết bài viết</value>
+  </data>
+  <data name="TYJS_000216" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="TYJS_000210" xml:space="preserve">
+    <value>Điểm đánh giá WikiFX</value>
+  </data>
+  <data name="TYJS_000208" xml:space="preserve">
+    <value>Trang chủ</value>
+  </data>
+  <data name="TYJS_000211" xml:space="preserve">
+    <value>Vui lòng đăng nhập trước</value>
+  </data>
+  <data name="TYJS_000209" xml:space="preserve">
+    <value>Nội dung tố cáo không được để trống</value>
+  </data>
+  <data name="TYJS_000204" xml:space="preserve">
+    <value>Chỉnh sửa thành:</value>
+  </data>
+  <data name="TYJS_000205" xml:space="preserve">
+    <value>Có thể tải lên tối đa 9 ảnh, hỗ trợ ảnh định dạng jpg, png,kích thước không quá 5M</value>
+  </data>
+  <data name="TYJS_000207" xml:space="preserve">
+    <value>Tạm không có số liệu</value>
+  </data>
+  <data name="TYJS_000201" xml:space="preserve">
+    <value>Bỏ qua</value>
+  </data>
+  <data name="TYJS_000199" xml:space="preserve">
+    <value>Không được để trống</value>
+  </data>
+  <data name="TYJS_000206" xml:space="preserve">
+    <value>Địa chỉ Website</value>
+  </data>
+  <data name="TYJS_000198" xml:space="preserve">
+    <value>Tiếp tục biên soạn</value>
+  </data>
+  <data name="TYJS_000197" xml:space="preserve">
+    <value>Bỏ qua nội dung đã chỉnh sửa?</value>
+  </data>
+  <data name="TYJS_000195" xml:space="preserve">
+    <value>Xác nhận</value>
+  </data>
+  <data name="TYJS_000200" xml:space="preserve">
+    <value>Nội dung</value>
+  </data>
+  <data name="TYJS_000192" xml:space="preserve">
+    <value>Đã thích</value>
+  </data>
+  <data name="TYJS_000194" xml:space="preserve">
+    <value>Định dạng không chính xác</value>
+  </data>
+  <data name="TYJS_000196" xml:space="preserve">
+    <value>Đăng nội dung đã chỉnh sửa?</value>
+  </data>
+  <data name="TYJS_000191" xml:space="preserve">
+    <value>Dec.</value>
+  </data>
+  <data name="TYJS_000189" xml:space="preserve">
+    <value>Oct.</value>
+  </data>
+  <data name="TYJS_000193" xml:space="preserve">
+    <value>Vị trí của quý khách:</value>
+  </data>
+  <data name="TYJS_000188" xml:space="preserve">
+    <value>Sept.</value>
+  </data>
+  <data name="TYJS_000187" xml:space="preserve">
+    <value>Aug.</value>
+  </data>
+  <data name="TYJS_000190" xml:space="preserve">
+    <value>Nov.</value>
+  </data>
+  <data name="TYJS_000186" xml:space="preserve">
+    <value>Jul.</value>
+  </data>
+  <data name="TYJS_000185" xml:space="preserve">
+    <value>Jun.</value>
+  </data>
+  <data name="TYJS_000183" xml:space="preserve">
+    <value>Apr.</value>
+  </data>
+  <data name="TYJS_000182" xml:space="preserve">
+    <value>Mar.</value>
+  </data>
+  <data name="TYJS_000184" xml:space="preserve">
+    <value>May.</value>
+  </data>
+  <data name="TYJS_000177" xml:space="preserve">
+    <value>Fri.</value>
+  </data>
+  <data name="TYJS_000181" xml:space="preserve">
+    <value>Feb.</value>
+  </data>
+  <data name="TYJS_000180" xml:space="preserve">
+    <value>Jan.</value>
+  </data>
+  <data name="TYJS_000179" xml:space="preserve">
+    <value>Sun.</value>
+  </data>
+  <data name="TYJS_000176" xml:space="preserve">
+    <value>Thur.</value>
+  </data>
+  <data name="TYJS_000178" xml:space="preserve">
+    <value>Sat.</value>
+  </data>
+  <data name="TYJS_000175" xml:space="preserve">
+    <value>Wed.</value>
+  </data>
+  <data name="TYJS_000173" xml:space="preserve">
+    <value>Mon.</value>
+  </data>
+  <data name="TYJS_000172" xml:space="preserve">
+    <value>Chỉnh sửa thông tin</value>
+  </data>
+  <data name="TYJS_000170" xml:space="preserve">
+    <value>Ghim lên đầu</value>
+  </data>
+  <data name="TYJS_000167" xml:space="preserve">
+    <value>Trả lời thất bại</value>
+  </data>
+  <data name="TYJS_000174" xml:space="preserve">
+    <value>Tues.</value>
+  </data>
+  <data name="TYJS_000171" xml:space="preserve">
+    <value>Thông tin sàn môi giới</value>
+  </data>
+  <data name="TYJS_000165" xml:space="preserve">
+    <value>Đã đăng bình luận</value>
+  </data>
+  <data name="TYJS_000163" xml:space="preserve">
+    <value>Vui lòng điền vào nội dung báo cáo một cách trung thực, chúng tôi sẽ trừng phạt nghiêm khắc các nhà xuất bản thông tin sai lệch có liên quan!</value>
+  </data>
+  <data name="TYJS_000169" xml:space="preserve">
+    <value>Thời gian tổ chức</value>
+  </data>
+  <data name="TYJS_000166" xml:space="preserve">
+    <value>Trả lời thành công</value>
+  </data>
+  <data name="TYJS_000161" xml:space="preserve">
+    <value>Không có</value>
+  </data>
+  <data name="TYJS_000164" xml:space="preserve">
+    <value>Xem nhiều hơn</value>
+  </data>
+  <data name="TYJS_000156" xml:space="preserve">
+    <value>Hàng hóa</value>
+  </data>
+  <data name="TYJS_000160" xml:space="preserve">
+    <value>Xem toàn bộ {0} câu trả lời</value>
+  </data>
+  <data name="TYJS_000162" xml:space="preserve">
+    <value>Chưa có người bình luận, hãy là người bình luận đầu tiên</value>
+  </data>
+  <data name="TYJS_000158" xml:space="preserve">
+    <value>Cổ phiếu</value>
+  </data>
+  <data name="TYJS_000155" xml:space="preserve">
+    <value>Ngoạihối</value>
+  </data>
+  <data name="TYJS_000154" xml:space="preserve">
+    <value>Các sản phẩm liên quan</value>
+  </data>
+  <data name="TYJS_000150" xml:space="preserve">
+    <value>Đãi ngộ doanh nghiệp</value>
+  </data>
+  <data name="TYJS_000157" xml:space="preserve">
+    <value>Dầu thô</value>
+  </data>
+  <data name="TYJS_000148" xml:space="preserve">
+    <value>Địa chỉ cụ thể</value>
+  </data>
+  <data name="TYJS_000153" xml:space="preserve">
+    <value>Mô tả công việc</value>
+  </data>
+  <data name="TYJS_000151" xml:space="preserve">
+    <value>Đãi ngộ doanh nghiệp</value>
+  </data>
+  <data name="TYJS_000152" xml:space="preserve">
+    <value>Mô tả  chức vụ</value>
+  </data>
+  <data name="TYJS_000149" xml:space="preserve">
+    <value>Vui lòng nhập địa chỉ chi tiết</value>
+  </data>
+  <data name="TYJS_000147" xml:space="preserve">
+    <value>Các yêu cầu liên quan</value>
+  </data>
+  <data name="TYJS_000145" xml:space="preserve">
+    <value>Vui lòng nhập vị trí</value>
+  </data>
+  <data name="TYJS_000144" xml:space="preserve">
+    <value>Chức vụ</value>
+  </data>
+  <data name="TYJS_000142" xml:space="preserve">
+    <value>Yêu cầu nghiệp vụ</value>
+  </data>
+  <data name="TYJS_000146" xml:space="preserve">
+    <value>Các yêu cầu liên quan</value>
+  </data>
+  <data name="TYJS_000138" xml:space="preserve">
+    <value>Mức lương</value>
+  </data>
+  <data name="TYJS_000143" xml:space="preserve">
+    <value>Yêu cầu kinh doanh</value>
+  </data>
+  <data name="TYJS_000137" xml:space="preserve">
+    <value>Vui lòng nhập số người trong nhóm/đội</value>
+  </data>
+  <data name="TYJS_000141" xml:space="preserve">
+    <value>Nhập quốc gia làm việc</value>
+  </data>
+  <data name="TYJS_000140" xml:space="preserve">
+    <value>Quốc gia làm việc</value>
+  </data>
+  <data name="TYJS_000139" xml:space="preserve">
+    <value>Nhập lương</value>
+  </data>
+  <data name="TYJS_000135" xml:space="preserve">
+    <value>Mô tả chi tiết</value>
+  </data>
+  <data name="TYJS_000133" xml:space="preserve">
+    <value>Kết tháng</value>
+  </data>
+  <data name="TYJS_000136" xml:space="preserve">
+    <value>Số lượng thành viên</value>
+  </data>
+  <data name="TYJS_000134" xml:space="preserve">
+    <value>Tổng kết thanh toán</value>
+  </data>
+  <data name="TYJS_000131" xml:space="preserve">
+    <value>Phương thức thanh toán</value>
+  </data>
+  <data name="TYJS_000129" xml:space="preserve">
+    <value>Phí</value>
+  </data>
+  <data name="TYJS_000132" xml:space="preserve">
+    <value>Kết tuần</value>
+  </data>
+  <data name="TYJS_000128" xml:space="preserve">
+    <value>Không hỗ trợ</value>
+  </data>
+  <data name="TYJS_000130" xml:space="preserve">
+    <value>Phí bồi hoàn</value>
+  </data>
+  <data name="TYJS_000126" xml:space="preserve">
+    <value>Giao dịch EA</value>
+  </data>
+  <data name="TYJS_000125" xml:space="preserve">
+    <value>Thông tin chi tiết</value>
+  </data>
+  <data name="TYJS_000124" xml:space="preserve">
+    <value>Kết ngày</value>
+  </data>
+  <data name="TYJS_000127" xml:space="preserve">
+    <value>Hỗ trợ</value>
+  </data>
+  <data name="TYJS_000121" xml:space="preserve">
+    <value>Chủ đề</value>
+  </data>
+  <data name="TYJS_000120" xml:space="preserve">
+    <value>Sàn môi giới</value>
+  </data>
+  <data name="TYJS_000122" xml:space="preserve">
+    <value>Nhập chủ đề</value>
+  </data>
+  <data name="TYJS_000123" xml:space="preserve">
+    <value>Thông tin chi tiết</value>
+  </data>
+  <data name="TYJS_000119" xml:space="preserve">
+    <value>Sàn môi giới</value>
+  </data>
+  <data name="TYJS_000118" xml:space="preserve">
+    <value>Nhập chi phí vé tham dự</value>
+  </data>
+  <data name="TYJS_000116" xml:space="preserve">
+    <value>Số người dự kiến</value>
+  </data>
+  <data name="TYJS_000117" xml:space="preserve">
+    <value>Chi phí vé tham dự</value>
+  </data>
+  <data name="TYJS_000115" xml:space="preserve">
+    <value>Số người tham gia dự kiến</value>
+  </data>
+  <data name="TYJS_000114" xml:space="preserve">
+    <value>Thời gian kết thúc</value>
+  </data>
+  <data name="TYJS_000112" xml:space="preserve">
+    <value>Thời gian bắt đầu</value>
+  </data>
+  <data name="TYJS_000113" xml:space="preserve">
+    <value>Thời gian kết thúc</value>
+  </data>
+  <data name="TYJS_000111" xml:space="preserve">
+    <value>Thời gian bắt đầu</value>
+  </data>
+  <data name="TYJS_000110" xml:space="preserve">
+    <value>Nhập thành phố tổ chức</value>
+  </data>
+  <data name="TYJS_000107" xml:space="preserve">
+    <value>Tối đa tải lên 10 ảnh</value>
+  </data>
+  <data name="TYJS_000108" xml:space="preserve">
+    <value>Tên đơn vị tổ chức</value>
+  </data>
+  <data name="TYJS_000109" xml:space="preserve">
+    <value>Thành phố tổ chức</value>
+  </data>
+  <data name="TYJS_000104" xml:space="preserve">
+    <value>Xuất bản thành công</value>
+  </data>
+  <data name="TYJS_000106" xml:space="preserve">
+    <value>Xảy ra lỗi</value>
+  </data>
+  <data name="TYJS_000105" xml:space="preserve">
+    <value>Đăng nội dung thất bại</value>
+  </data>
+  <data name="TYJS_000102" xml:space="preserve">
+    <value>Tiêu đề không được để trống</value>
+  </data>
+  <data name="TYJS_000103" xml:space="preserve">
+    <value>Người dùng đã thích</value>
+  </data>
+  <data name="TYJS_000100" xml:space="preserve">
+    <value>Bình luận thất bại</value>
+  </data>
+  <data name="TYJS_000095" xml:space="preserve">
+    <value>Chi phí bảo trì</value>
+  </data>
+  <data name="TYJS_000101" xml:space="preserve">
+    <value>Khách vãng lai không được quyền đăng bài</value>
+  </data>
+  <data name="TYJS_000098" xml:space="preserve">
+    <value>Giá bán (USD)</value>
+  </data>
+  <data name="TYJS_000096" xml:space="preserve">
+    <value>Nhập phí bảo trì</value>
+  </data>
+  <data name="TYJS_000099" xml:space="preserve">
+    <value>Nhập giá bán</value>
+  </data>
+  <data name="TYJS_000094" xml:space="preserve">
+    <value>Nhập giá mua</value>
+  </data>
+  <data name="TYJS_000093" xml:space="preserve">
+    <value>Yêu cầu báo giá</value>
+  </data>
+  <data name="TYJS_000097" xml:space="preserve">
+    <value>Thời gian đăng ký</value>
+  </data>
+  <data name="TYJS_000089" xml:space="preserve">
+    <value>Không yêu cầu cung cấp</value>
+  </data>
+  <data name="TYJS_000090" xml:space="preserve">
+    <value>Khu vực quản lý</value>
+  </data>
+  <data name="TYJS_000092" xml:space="preserve">
+    <value>Nhập loại hình giấy phép</value>
+  </data>
+  <data name="TYJS_000088" xml:space="preserve">
+    <value>Yêu cầu cung cấp</value>
+  </data>
+  <data name="TYJS_000087" xml:space="preserve">
+    <value>Yêu cầu loại hình doanh nghiệp</value>
+  </data>
+  <data name="TYJS_000091" xml:space="preserve">
+    <value>Cơ quan quản lý</value>
+  </data>
+  <data name="TYJS_000084" xml:space="preserve">
+    <value>Phí giao dịch (USD)</value>
+  </data>
+  <data name="TYJS_000083" xml:space="preserve">
+    <value>Nhập loại hình kênh truy cập</value>
+  </data>
+  <data name="TYJS_000086" xml:space="preserve">
+    <value>Nhập thời gian yêu cầu</value>
+  </data>
+  <data name="TYJS_000082" xml:space="preserve">
+    <value>Phương thức thanh toán</value>
+  </data>
+  <data name="TYJS_000081" xml:space="preserve">
+    <value>Công bố</value>
+  </data>
+  <data name="TYJS_000085" xml:space="preserve">
+    <value>Phí giao dịch</value>
+  </data>
+  <data name="TYJS_000080" xml:space="preserve">
+    <value>Nhập tài khoản QQ</value>
+  </data>
+  <data name="TYJS_000076" xml:space="preserve">
+    <value>Vui lòng nhập email</value>
+  </data>
+  <data name="TYJS_000079" xml:space="preserve">
+    <value>QQ</value>
+  </data>
+  <data name="TYJS_000078" xml:space="preserve">
+    <value>Nhập tài khoản Wechat</value>
+  </data>
+  <data name="TYJS_000074" xml:space="preserve">
+    <value>Please enter Twitter</value>
+  </data>
+  <data name="TYJS_000075" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="TYJS_000073" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="TYJS_000077" xml:space="preserve">
+    <value>WeChat</value>
+  </data>
+  <data name="TYJS_000070" xml:space="preserve">
+    <value>Nhập tài khoản Instagram</value>
+  </data>
+  <data name="TYJS_000072" xml:space="preserve">
+    <value>Please enter Facebook</value>
+  </data>
+  <data name="TYJS_000069" xml:space="preserve">
+    <value>Instagram</value>
+  </data>
+  <data name="TYJS_000071" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="TYJS_000065" xml:space="preserve">
+    <value>Mô tả chi tiết thông tin sản phẩm</value>
+  </data>
+  <data name="TYJS_000068" xml:space="preserve">
+    <value>Vui lòng nhập số điện thoại</value>
+  </data>
+  <data name="TYJS_000067" xml:space="preserve">
+    <value>Số điện thoại</value>
+  </data>
+  <data name="TYJS_000066" xml:space="preserve">
+    <value>Phương thức liên hệ</value>
+  </data>
+  <data name="TYJS_000063" xml:space="preserve">
+    <value>Nhập địa chỉ website chính thức</value>
+  </data>
+  <data name="TYJS_000064" xml:space="preserve">
+    <value>Mô tả chi tiết thông tin doanh nghiệp</value>
+  </data>
+  <data name="TYJS_000059" xml:space="preserve">
+    <value>Khác</value>
+  </data>
+  <data name="TYJS_000062" xml:space="preserve">
+    <value>Website chính thức</value>
+  </data>
+  <data name="TYJS_000061" xml:space="preserve">
+    <value>Báo giá dự án</value>
+  </data>
+  <data name="TYJS_000057" xml:space="preserve">
+    <value>Thiết kế CRM</value>
+  </data>
+  <data name="TYJS_000054" xml:space="preserve">
+    <value>Có thể tải lên tối đa 10 ảnh, hỗ trợ ảnh định dạng jpg, png,kích thước không quá 5M</value>
+  </data>
+  <data name="TYJS_000060" xml:space="preserve">
+    <value>Báo giá dự án</value>
+  </data>
+  <data name="TYJS_000058" xml:space="preserve">
+    <value>Thiết kế giao diện chính thức</value>
+  </data>
+  <data name="TYJS_000056" xml:space="preserve">
+    <value>Thiết kế MT4</value>
+  </data>
+  <data name="TYJS_000051" xml:space="preserve">
+    <value>Chủ đề</value>
+  </data>
+  <data name="TYJS_000053" xml:space="preserve">
+    <value>Tải ảnh lên</value>
+  </data>
+  <data name="TYJS_000052" xml:space="preserve">
+    <value>Vui lòng nhập tiêu đề</value>
+  </data>
+  <data name="TYJS_000055" xml:space="preserve">
+    <value>Phân loại nền tảng</value>
+  </data>
+  <data name="TYJS_000050" xml:space="preserve">
+    <value>Lựa chọn danh mục</value>
+  </data>
+  <data name="TYJS_000045" xml:space="preserve">
+    <value>Đăng nhập để bình luận</value>
+  </data>
+  <data name="TYJS_000047" xml:space="preserve">
+    <value>{0} bình luận</value>
+  </data>
+  <data name="TYJS_000048" xml:space="preserve">
+    <value>Thích</value>
+  </data>
+  <data name="TYJS_000046" xml:space="preserve">
+    <value>Đặt câu hỏi</value>
+  </data>
+  <data name="TYJS_000049" xml:space="preserve">
+    <value>Xem {0} câu trả lời</value>
+  </data>
+  <data name="TYJS_000043" xml:space="preserve">
+    <value>Tham khảo ý kiến</value>
+  </data>
+  <data name="TYJS_000044" xml:space="preserve">
+    <value>Nhập câu hỏi của bạn</value>
+  </data>
+  <data name="TYJS_000041" xml:space="preserve">
+    <value>Bộ sưu tập ảnh diễn đàn</value>
+  </data>
+  <data name="TYJS_000042" xml:space="preserve">
+    <value>Thích</value>
+  </data>
+  <data name="TYJS_000039" xml:space="preserve">
+    <value>Mô tả sản phẩm</value>
+  </data>
+  <data name="TYJS_000040" xml:space="preserve">
+    <value>Giới thiệu doanh nghiệp</value>
+  </data>
+  <data name="TYJS_000037" xml:space="preserve">
+    <value>Tên đơn vị tổ chức</value>
+  </data>
+  <data name="TYJS_000032" xml:space="preserve">
+    <value>Yêu cầu mở khoản</value>
+  </data>
+  <data name="TYJS_000035" xml:space="preserve">
+    <value>Giá mua (USD)</value>
+  </data>
+  <data name="TYJS_000038" xml:space="preserve">
+    <value>Nhấn để xem</value>
+  </data>
+  <data name="TYJS_000036" xml:space="preserve">
+    <value>Phí bảo trì (USD)</value>
+  </data>
+  <data name="TYJS_000033" xml:space="preserve">
+    <value>Phân loại giấy phép</value>
+  </data>
+  <data name="TYJS_000031" xml:space="preserve">
+    <value>Ủy ban giám sát quản lý</value>
+  </data>
+  <data name="TYJS_000034" xml:space="preserve">
+    <value>Khu vực giám sát</value>
+  </data>
+  <data name="TYJS_000028" xml:space="preserve">
+    <value>Release time</value>
+  </data>
+  <data name="TYJS_000029" xml:space="preserve">
+    <value>Gửi đến đến thoại</value>
+  </data>
+  <data name="TYJS_000030" xml:space="preserve">
+    <value>Khiếu nại</value>
+  </data>
+  <data name="TYJS_000024" xml:space="preserve">
+    <value>Gửi</value>
+  </data>
+  <data name="TYJS_000026" xml:space="preserve">
+    <value>Trả lời</value>
+  </data>
+  <data name="TYJS_000027" xml:space="preserve">
+    <value>Thu gọn câu trả lời</value>
+  </data>
+  <data name="TYJS_000025" xml:space="preserve">
+    <value>Viết câu trả lời</value>
+  </data>
+  <data name="TYJS_000023" xml:space="preserve">
+    <value>Phân loại diễn đàn</value>
+  </data>
+  <data name="TYJS_000022" xml:space="preserve">
+    <value>Bình luận phổ biến</value>
+  </data>
+  <data name="TYJS_000019" xml:space="preserve">
+    <value>Ngành</value>
+  </data>
+  <data name="TYJS_000020" xml:space="preserve">
+    <value>Chỉ số kỹ thuật</value>
+  </data>
+  <data name="TYJS_000018" xml:space="preserve">
+    <value>Chỉ số thị trường</value>
+  </data>
+  <data name="TYJS_000013" xml:space="preserve">
+    <value>Tuyển dụng</value>
+  </data>
+  <data name="TYJS_000021" xml:space="preserve">
+    <value>Chỉ số</value>
+  </data>
+  <data name="TYJS_000017" xml:space="preserve">
+    <value>Phân tích thị trường</value>
+  </data>
+  <data name="TYJS_000015" xml:space="preserve">
+    <value>Chia sẻ bình luận mới</value>
+  </data>
+  <data name="TYJS_000016" xml:space="preserve">
+    <value>EA</value>
+  </data>
+  <data name="TYJS_000010" xml:space="preserve">
+    <value>Tuyển dụng IB</value>
+  </data>
+  <data name="TYJS_000012" xml:space="preserve">
+    <value>Tuyển dụng đội nhóm</value>
+  </data>
+  <data name="TYJS_000006" xml:space="preserve">
+    <value>Phương thức thanh toán</value>
+  </data>
+  <data name="TYJS_000014" xml:space="preserve">
+    <value>Tuyển dụng cá nhân</value>
+  </data>
+  <data name="TYJS_000011" xml:space="preserve">
+    <value>IB</value>
+  </data>
+  <data name="TYJS_000009" xml:space="preserve">
+    <value>Triển lãm</value>
+  </data>
+  <data name="TYJS_000008" xml:space="preserve">
+    <value>Chuyển nhượng giấy phép</value>
+  </data>
+  <data name="TYJS_000004" xml:space="preserve">
+    <value>Quét mã để xem</value>
+  </data>
+  <data name="TYJS_000007" xml:space="preserve">
+    <value>Cơ quan cấp phép</value>
+  </data>
+  <data name="TYJS_000002" xml:space="preserve">
+    <value>Diễn đàn</value>
+  </data>
+  <data name="TYJS_000001" xml:space="preserve">
+    <value>Công bố</value>
+  </data>
+  <data name="TYJS_000005" xml:space="preserve">
+    <value>Nền tảng</value>
+  </data>
+  <data name="TYJS_000301" xml:space="preserve">
+    <value>{0} phút trước</value>
+  </data>
+  <data name="TYJS_000003" xml:space="preserve">
+    <value>Thông tin bài đăng tìm được</value>
+  </data>
+  <data name="TYJS_000300" xml:space="preserve">
+    <value>{0} ngày trước</value>
+  </data>
+  <data name="TYJS_000302" xml:space="preserve">
+    <value>{0} giờ trước</value>
+  </data>
+  <data name="TYJS_000305" xml:space="preserve">
+    <value>Hôm qua {0}</value>
+  </data>
+  <data name="TYJS_000304" xml:space="preserve">
+    <value>Hôm qua</value>
+  </data>
+</root>

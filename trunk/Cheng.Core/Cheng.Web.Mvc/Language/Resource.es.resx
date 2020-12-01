@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TYJS_000303" xml:space="preserve">
+    <value>Hace un momento</value>
+  </data>
+  <data name="TYJS_000297" xml:space="preserve">
+    <value>Marketing News Market - WikiFX</value>
+  </data>
+  <data name="TYJS_000299" xml:space="preserve">
+    <value>Pasar, pasar pedagang, WikiFX, berita pedagang, platform pedagang, konstruksi platform, promosi investasi IB, analisis pasar, EA berhubungan, pembicaraan, pekerjaan langsung bos, informasi eksposisi pedagang, pedagang eksposisi global</value>
+  </data>
+  <data name="TYJS_000295" xml:space="preserve">
+    <value>Construcción de sitios web</value>
+  </data>
+  <data name="TYJS_000293" xml:space="preserve">
+    <value>Edificio MT4</value>
+  </data>
+  <data name="TYJS_000298" xml:space="preserve">
+    <value>El mercado, las noticias del mercado de los distribuidores son propiedad de wikifx, que incluye la construcción de plataformas, la promoción de inversiones IB, el análisis de mercado, la relación con el EA, rumores, contratación directa por el propietario, información sobre exposiciones y exposición.</value>
+  </data>
+  <data name="TYJS_000289" xml:space="preserve">
+    <value>Participar</value>
+  </data>
+  <data name="TYJS_000291" xml:space="preserve">
+    <value>No requerido</value>
+  </data>
+  <data name="TYJS_000296" xml:space="preserve">
+    <value>Global Forex Broker Regulatory Inquiry APP</value>
+  </data>
+  <data name="TYJS_000294" xml:space="preserve">
+    <value>Edificio de CRM</value>
+  </data>
+  <data name="TYJS_000292" xml:space="preserve">
+    <value>Yo también quiero comentar.</value>
+  </data>
+  <data name="TYJS_000290" xml:space="preserve">
+    <value>Silakan pilih varietas relevan</value>
+  </data>
+  <data name="TYJS_000285" xml:space="preserve">
+    <value>Ciclo de descuento</value>
+  </data>
+  <data name="TYJS_000288" xml:space="preserve">
+    <value>Revisiones interactivas</value>
+  </data>
+  <data name="TYJS_000287" xml:space="preserve">
+    <value>Cancelado exitosamente</value>
+  </data>
+  <data name="TYJS_000284" xml:space="preserve">
+    <value>Selecciona una hora</value>
+  </data>
+  <data name="TYJS_000283" xml:space="preserve">
+    <value>Por favor, introduzca una dirección oficial</value>
+  </data>
+  <data name="TYJS_000286" xml:space="preserve">
+    <value>Región</value>
+  </data>
+  <data name="TYJS_000282" xml:space="preserve">
+    <value>Motivo del rechazo</value>
+  </data>
+  <data name="TYJS_000280" xml:space="preserve">
+    <value>Edificio oficial</value>
+  </data>
+  <data name="TYJS_000279" xml:space="preserve">
+    <value>Edificio CRM</value>
+  </data>
+  <data name="TYJS_000276" xml:space="preserve">
+    <value>Por cierre de posición</value>
+  </data>
+  <data name="TYJS_000281" xml:space="preserve">
+    <value>Otros</value>
+  </data>
+  <data name="TYJS_000275" xml:space="preserve">
+    <value>Pago mensual</value>
+  </data>
+  <data name="TYJS_000278" xml:space="preserve">
+    <value>Edificio MT4</value>
+  </data>
+  <data name="TYJS_000273" xml:space="preserve">
+    <value>Diario pagado</value>
+  </data>
+  <data name="TYJS_000271" xml:space="preserve">
+    <value>Soportado</value>
+  </data>
+  <data name="TYJS_000277" xml:space="preserve">
+    <value>Negociable</value>
+  </data>
+  <data name="TYJS_000272" xml:space="preserve">
+    <value>No soportado</value>
+  </data>
+  <data name="TYJS_000270" xml:space="preserve">
+    <value>Agencia de licencias</value>
+  </data>
+  <data name="TYJS_000274" xml:space="preserve">
+    <value>Pago semanal</value>
+  </data>
+  <data name="TYJS_000266" xml:space="preserve">
+    <value>Publicar {0} Information_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000267" xml:space="preserve">
+    <value>Market, Trader Market News pertenece a WikiFX, que incluye las ocho partes principales de la construcción de la plataforma en WikiFX, promoción de inversiones de IB, análisis de mercado, EA relacionado, rumores, empleo directo del jefe, información de exposición, exposición, etc.</value>
+  </data>
+  <data name="TYJS_000269" xml:space="preserve">
+    <value>Transferencia de licencia</value>
+  </data>
+  <data name="TYJS_000265" xml:space="preserve">
+    <value>{0}, periferia de EA, comerciante relacionado con EA, Market, WikiFX</value>
+  </data>
+  <data name="TYJS_000268" xml:space="preserve">
+    <value>Market, Trader Market, WikiFX, Trader News, Trader Platform, Platform Construction, IB Investment Promotion, Market Analysis, EA Related, Hearsay, Boss Direct Employment, Trader Exhibition Information, Global Exposure Traders</value>
+  </data>
+  <data name="TYJS_000261" xml:space="preserve">
+    <value>Las ventajas de todos los tipos de EA se pueden ver aquí. Las tendencias, las tendencias y el EA cuantitativo son los principales puntos de venta de los comerciantes, y puede comprarlos como desee.</value>
+  </data>
+  <data name="TYJS_000264" xml:space="preserve">
+    <value>Las ventajas de todos los tipos de EA se pueden ver aquí. Las tendencias, las tendencias y el EA cuantitativo son los principales puntos de venta de los comerciantes, y puede comprarlos como desee.</value>
+  </data>
+  <data name="TYJS_000263" xml:space="preserve">
+    <value>{0} _Indicator_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000260" xml:space="preserve">
+    <value>Indicadores de comercio de traders_Indicators_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000262" xml:space="preserve">
+    <value>EA periférico, comerciante relacionado con EA, Market, WikiFX</value>
+  </data>
+  <data name="TYJS_000259" xml:space="preserve">
+    <value>{0} _Trader relacionado con EA, EA, agente de EA, código fuente de EA, periférico de EA, estrategia de negociación de EA, datos de negociación de EA, mercado, WikiFX</value>
+  </data>
+  <data name="TYJS_000257" xml:space="preserve">
+    <value>{0} _EA Related_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000256" xml:space="preserve">
+    <value>Trader EA relacionado, EA, agente de EA, código fuente de EA, periférico de EA, estrategia de negociación de EA, datos de negociación de EA, mercado, WikiFX</value>
+  </data>
+  <data name="TYJS_000255" xml:space="preserve">
+    <value>EA relacionado con los comerciantes está compuesto por agentes de EA, código fuente de EA, periféricos de EA y otras columnas, que son principalmente para estrategias de comercio de EA, datos de comercio de EA, etc., lo que permite a los comerciantes y profesionales elegir la oferta y la demanda</value>
+  </data>
+  <data name="TYJS_000258" xml:space="preserve">
+    <value>EA relacionado con los comerciantes está compuesto por agentes de EA, código fuente de EA, periféricos de EA y otras columnas, que son principalmente para estrategias de comercio de EA, datos de comercio de EA, etc., lo que permite a los comerciantes y profesionales elegir la oferta y la demanda</value>
+  </data>
+  <data name="TYJS_000251" xml:space="preserve">
+    <value>{0} _Noticias de la industria_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000252" xml:space="preserve">
+    <value>Los comerciantes han escuchado historias sobre los principales personajes de la industria. ¿Cuánto sabes? Te lleva a través de las historias legendarias de estos personajes.</value>
+  </data>
+  <data name="TYJS_000249" xml:space="preserve">
+    <value>Detalles de información de la industria, detalles de noticias, detalles de oferta y demanda, detalles de exposición, una colección de contenido, el contenido es un rumor, no se garantiza que sea cierto</value>
+  </data>
+  <data name="TYJS_000254" xml:space="preserve">
+    <value>Trader EA related_EA related_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000250" xml:space="preserve">
+    <value>Los comerciantes dicen rumores, industria extendida, mercado, WikiFX</value>
+  </data>
+  <data name="TYJS_000253" xml:space="preserve">
+    <value>{0}, rumores de comerciantes, Market, WikiFX, leyendas, notas de vida</value>
+  </data>
+  <data name="TYJS_000247" xml:space="preserve">
+    <value>{0}, análisis de mercado de traders, Market, WikiFX, estrategias comerciales, tendencias</value>
+  </data>
+  <data name="TYJS_000243" xml:space="preserve">
+    <value>Los comerciantes y profesionales analizan los datos recientes del mercado en la industria y los comparten en la columna de análisis de mercado para que más comerciantes y profesionales entiendan el mercado. Los dioses están aquí, lo sabrán de un vistazo</value>
+  </data>
+  <data name="TYJS_000248" xml:space="preserve">
+    <value>Trading Business News_Industry News_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000245" xml:space="preserve">
+    <value>{0} _Market analysis_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000242" xml:space="preserve">
+    <value>Dealer Market Analysis_Market Analysis_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000244" xml:space="preserve">
+    <value>Análisis del mercado del concesionario, análisis del mercado, futuros, oro, divisas, Mercado, WikiFX</value>
+  </data>
+  <data name="TYJS_000246" xml:space="preserve">
+    <value>En el análisis de mercado, los operadores y profesionales comenzarán con las tendencias y estrategias comerciales actuales, analizarán datos recientes, reflejarán tendencias recientes y mostrarán datos en tiempo real.</value>
+  </data>
+  <data name="TYJS_000241" xml:space="preserve">
+    <value>{0}, empleado directamente por el jefe de trader, Market, WikiFX, trader, trader, practicante, IB</value>
+  </data>
+  <data name="TYJS_000240" xml:space="preserve">
+    <value>Comerciantes, comerciantes, profesionales, IB, plataformas para reclutar individuos y supergrupos sobresalientes, siempre que sean excelentes, usted viene</value>
+  </data>
+  <data name="TYJS_000237" xml:space="preserve">
+    <value>Comerciantes, comerciantes, profesionales, IB, plataformas para reclutar individuos y supergrupos sobresalientes, siempre que sean excelentes, usted viene</value>
+  </data>
+  <data name="TYJS_000238" xml:space="preserve">
+    <value>Jefe comerciante contratado directamente, Market, WikiFX, comerciante, practicante, IB</value>
+  </data>
+  <data name="TYJS_000235" xml:space="preserve">
+    <value>{0}, EA trading, trader inversión IB, inversión IB, Market, WikiFX, ayudantes nacionales extranjeros, descuentos</value>
+  </data>
+  <data name="TYJS_000239" xml:space="preserve">
+    <value>{0} _Información de reclutamiento_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000236" xml:space="preserve">
+    <value>Jefe comerciante contratado directamente_Información de reclutamiento_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000233" xml:space="preserve">
+    <value>{0} _IB Merchants_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000234" xml:space="preserve">
+    <value>El sitio web oficial de promoción de inversiones, trader IB Investment se compone de EA trading, ayuda doméstica extranjera, comisión de reembolso de comisión, período de reembolso de comisión, descripción del producto y parte del álbum del mercado, principalmente para encontrar instituciones e individuos para introducir cuentas y obtener comisiones</value>
+  </data>
+  <data name="TYJS_000231" xml:space="preserve">
+    <value>La inversión, las instituciones o los individuos de Trader IB aceptan la comisión, presentan a los clientes para abrir cuentas y cobran una comisión determinada. La inversión oficial es confiable.</value>
+  </data>
+  <data name="TYJS_000232" xml:space="preserve">
+    <value>Trader IB Investment, IB Investment, Market, WikiFX, Commission, Official Investment</value>
+  </data>
+  <data name="TYJS_000229" xml:space="preserve">
+    <value>{0}, información de la exposición del comerciante, exposición del comerciante, Mercado, WikiFX</value>
+  </data>
+  <data name="TYJS_000230" xml:space="preserve">
+    <value>Trade Expo IB Merchants_IB Merchants_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000228" xml:space="preserve">
+    <value>Sobre el tema de la exposición, el momento del evento, el sitio web oficial, la ciudad anfitriona, el número estimado de personas, el precio de la entrada y los detalles de la exposición. Hay datos detallados para que navegue aquí</value>
+  </data>
+  <data name="TYJS_000223" xml:space="preserve">
+    <value>{0}, construcción de plataformas, construcción de plataformas de comerciantes, Market, WikiFX</value>
+  </data>
+  <data name="TYJS_000227" xml:space="preserve">
+    <value>{0} _Información de exposición_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000225" xml:space="preserve">
+    <value>Los comerciantes globales, comerciantes, profesionales, IB y el salón del foro de exhibición se pueden ver aquí, usted sabe y no sabe que están aquí, si quiere ir, eche un vistazo</value>
+  </data>
+  <data name="TYJS_000224" xml:space="preserve">
+    <value>Información de la exposición del comerciante_Información de exposición_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000226" xml:space="preserve">
+    <value>Información de la feria Trader, Feria Trader, Mercado, WikiFX, Expo, Foro, Salón, Global Trader, Trader, Practitioner, IB</value>
+  </data>
+  <data name="TYJS_000220" xml:space="preserve">
+    <value>Market, WikiFX, Plataforma de comerciantes, Construcción de plataformas, Canal de pagos, Transferencia de licencias, Compra de licencias, Agente de licencias</value>
+  </data>
+  <data name="TYJS_000221" xml:space="preserve">
+    <value>{0} _ Construcción de plataforma_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000217" xml:space="preserve">
+    <value>Por favor ingrese su respuesta</value>
+  </data>
+  <data name="TYJS_000219" xml:space="preserve">
+    <value>La construcción de la plataforma del concesionario está bajo el Mercado, que pertenece a WikiFX. La construcción de la plataforma del concesionario se compone de la construcción de la plataforma, canales de pago, transferencia de licencia, compra de licencia, agencia de licencias, etc.</value>
+  </data>
+  <data name="TYJS_000218" xml:space="preserve">
+    <value>Construcción de plataforma de trader_ Construcción de plataforma_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000222" xml:space="preserve">
+    <value>La página de construcción de la plataforma del distribuidor se compone de los títulos publicados por los distribuidores y profesionales, los tipos de plataforma, las cotizaciones de proyectos, las descripciones de los productos, las presentaciones de la compañía y los álbumes del mercado. Las descripciones de los productos explican las necesidades de construcción de plataformas de distribuidores y profesionales.</value>
+  </data>
+  <data name="TYJS_000215" xml:space="preserve">
+    <value>Buscar nueva cooperación de mercado</value>
+  </data>
+  <data name="TYJS_000213" xml:space="preserve">
+    <value>Construcción del sistema</value>
+  </data>
+  <data name="TYJS_000212" xml:space="preserve">
+    <value>Formato de gráficos no válido</value>
+  </data>
+  <data name="TYJS_000214" xml:space="preserve">
+    <value>Detalles del contenido</value>
+  </data>
+  <data name="TYJS_000210" xml:space="preserve">
+    <value>Puntuación de WikiFX</value>
+  </data>
+  <data name="TYJS_000216" xml:space="preserve">
+    <value>Búsqueda</value>
+  </data>
+  <data name="TYJS_000208" xml:space="preserve">
+    <value>Página de inicio</value>
+  </data>
+  <data name="TYJS_000211" xml:space="preserve">
+    <value>Por favor inicie sesión primero</value>
+  </data>
+  <data name="TYJS_000209" xml:space="preserve">
+    <value>La acusación no puede estar en blanco</value>
+  </data>
+  <data name="TYJS_000204" xml:space="preserve">
+    <value>Para ser editado:</value>
+  </data>
+  <data name="TYJS_000205" xml:space="preserve">
+    <value>No más de 9 fotos, y dentro de 5M de tamaño, se permiten JPG, PNG y</value>
+  </data>
+  <data name="TYJS_000207" xml:space="preserve">
+    <value>No hay datos por el momento</value>
+  </data>
+  <data name="TYJS_000201" xml:space="preserve">
+    <value>Dejar</value>
+  </data>
+  <data name="TYJS_000199" xml:space="preserve">
+    <value>Necesario</value>
+  </data>
+  <data name="TYJS_000206" xml:space="preserve">
+    <value>Sitio web</value>
+  </data>
+  <data name="TYJS_000198" xml:space="preserve">
+    <value>Continuar editando</value>
+  </data>
+  <data name="TYJS_000197" xml:space="preserve">
+    <value>¿Quieres descartar tu texto?</value>
+  </data>
+  <data name="TYJS_000195" xml:space="preserve">
+    <value>Confirmar</value>
+  </data>
+  <data name="TYJS_000200" xml:space="preserve">
+    <value>Contenido</value>
+  </data>
+  <data name="TYJS_000192" xml:space="preserve">
+    <value>Me gusta</value>
+  </data>
+  <data name="TYJS_000194" xml:space="preserve">
+    <value>Formato incorrecto</value>
+  </data>
+  <data name="TYJS_000196" xml:space="preserve">
+    <value>¿Publicar el contenido editado?</value>
+  </data>
+  <data name="TYJS_000191" xml:space="preserve">
+    <value>Dec.</value>
+  </data>
+  <data name="TYJS_000189" xml:space="preserve">
+    <value>Oct.</value>
+  </data>
+  <data name="TYJS_000187" xml:space="preserve">
+    <value>Aug.</value>
+  </data>
+  <data name="TYJS_000188" xml:space="preserve">
+    <value>Sept.</value>
+  </data>
+  <data name="TYJS_000193" xml:space="preserve">
+    <value>Su ubicación:</value>
+  </data>
+  <data name="TYJS_000190" xml:space="preserve">
+    <value>Nov.</value>
+  </data>
+  <data name="TYJS_000186" xml:space="preserve">
+    <value>Jul.</value>
+  </data>
+  <data name="TYJS_000183" xml:space="preserve">
+    <value>Apr.</value>
+  </data>
+  <data name="TYJS_000185" xml:space="preserve">
+    <value>Jun.</value>
+  </data>
+  <data name="TYJS_000182" xml:space="preserve">
+    <value>Mar.</value>
+  </data>
+  <data name="TYJS_000184" xml:space="preserve">
+    <value>May.</value>
+  </data>
+  <data name="TYJS_000181" xml:space="preserve">
+    <value>Feb.</value>
+  </data>
+  <data name="TYJS_000177" xml:space="preserve">
+    <value>Fri.</value>
+  </data>
+  <data name="TYJS_000180" xml:space="preserve">
+    <value>Jan.</value>
+  </data>
+  <data name="TYJS_000179" xml:space="preserve">
+    <value>Sun.</value>
+  </data>
+  <data name="TYJS_000176" xml:space="preserve">
+    <value>Thur.</value>
+  </data>
+  <data name="TYJS_000178" xml:space="preserve">
+    <value>Sat.</value>
+  </data>
+  <data name="TYJS_000175" xml:space="preserve">
+    <value>Wed.</value>
+  </data>
+  <data name="TYJS_000173" xml:space="preserve">
+    <value>Mon.</value>
+  </data>
+  <data name="TYJS_000172" xml:space="preserve">
+    <value>Editar informacion</value>
+  </data>
+  <data name="TYJS_000170" xml:space="preserve">
+    <value>Pegajosa en la parte superior</value>
+  </data>
+  <data name="TYJS_000167" xml:space="preserve">
+    <value>Ha fallado</value>
+  </data>
+  <data name="TYJS_000174" xml:space="preserve">
+    <value>Tues.</value>
+  </data>
+  <data name="TYJS_000165" xml:space="preserve">
+    <value>Hecho</value>
+  </data>
+  <data name="TYJS_000171" xml:space="preserve">
+    <value>Información de comerciantes</value>
+  </data>
+  <data name="TYJS_000163" xml:space="preserve">
+    <value>Complete el contenido del informe con sinceridad, ¡castigaremos estrictamente a los editores de información falsa relevantes!</value>
+  </data>
+  <data name="TYJS_000169" xml:space="preserve">
+    <value>Tiempo de acogida</value>
+  </data>
+  <data name="TYJS_000166" xml:space="preserve">
+    <value>Triunfó</value>
+  </data>
+  <data name="TYJS_000161" xml:space="preserve">
+    <value>Ninguna</value>
+  </data>
+  <data name="TYJS_000164" xml:space="preserve">
+    <value>Ver más</value>
+  </data>
+  <data name="TYJS_000156" xml:space="preserve">
+    <value>Mercancía</value>
+  </data>
+  <data name="TYJS_000160" xml:space="preserve">
+    <value>Verifique todas las respuestas {0}</value>
+  </data>
+  <data name="TYJS_000162" xml:space="preserve">
+    <value>No hay comentarios todavía. Haz el primero.</value>
+  </data>
+  <data name="TYJS_000158" xml:space="preserve">
+    <value>Stock</value>
+  </data>
+  <data name="TYJS_000155" xml:space="preserve">
+    <value>Forex</value>
+  </data>
+  <data name="TYJS_000154" xml:space="preserve">
+    <value>Producto relacionado, artículo relacionado</value>
+  </data>
+  <data name="TYJS_000150" xml:space="preserve">
+    <value>Bienestar de la empresa</value>
+  </data>
+  <data name="TYJS_000157" xml:space="preserve">
+    <value>Aceite crudo</value>
+  </data>
+  <data name="TYJS_000148" xml:space="preserve">
+    <value>Habla a</value>
+  </data>
+  <data name="TYJS_000153" xml:space="preserve">
+    <value>Ingrese una descripción del trabajo</value>
+  </data>
+  <data name="TYJS_000151" xml:space="preserve">
+    <value>Entra en el bienestar de la empresa</value>
+  </data>
+  <data name="TYJS_000152" xml:space="preserve">
+    <value>Descripción del trabajo</value>
+  </data>
+  <data name="TYJS_000149" xml:space="preserve">
+    <value>Por favor, introduzca la dirección detallada</value>
+  </data>
+  <data name="TYJS_000147" xml:space="preserve">
+    <value>Ingrese los requisitos relevantes</value>
+  </data>
+  <data name="TYJS_000145" xml:space="preserve">
+    <value>Por favor ingrese la posición</value>
+  </data>
+  <data name="TYJS_000144" xml:space="preserve">
+    <value>Posición</value>
+  </data>
+  <data name="TYJS_000142" xml:space="preserve">
+    <value>Requisitos comerciales</value>
+  </data>
+  <data name="TYJS_000146" xml:space="preserve">
+    <value>Requisitos relacionados</value>
+  </data>
+  <data name="TYJS_000138" xml:space="preserve">
+    <value>Nivel de salario</value>
+  </data>
+  <data name="TYJS_000143" xml:space="preserve">
+    <value>Ingrese los requisitos comerciales</value>
+  </data>
+  <data name="TYJS_000137" xml:space="preserve">
+    <value>Por favor, introduzca el tamaño del equipo.</value>
+  </data>
+  <data name="TYJS_000141" xml:space="preserve">
+    <value>Ingrese un pais</value>
+  </data>
+  <data name="TYJS_000140" xml:space="preserve">
+    <value>País</value>
+  </data>
+  <data name="TYJS_000139" xml:space="preserve">
+    <value>Ingrese el salario</value>
+  </data>
+  <data name="TYJS_000135" xml:space="preserve">
+    <value>Ingrese más detalles</value>
+  </data>
+  <data name="TYJS_000133" xml:space="preserve">
+    <value>Pago mensual</value>
+  </data>
+  <data name="TYJS_000136" xml:space="preserve">
+    <value>Tamaño del equipo</value>
+  </data>
+  <data name="TYJS_000134" xml:space="preserve">
+    <value>Por cierre de posición</value>
+  </data>
+  <data name="TYJS_000131" xml:space="preserve">
+    <value>Asentamiento</value>
+  </data>
+  <data name="TYJS_000132" xml:space="preserve">
+    <value>Pago semanal</value>
+  </data>
+  <data name="TYJS_000129" xml:space="preserve">
+    <value>Comisión de divisas</value>
+  </data>
+  <data name="TYJS_000128" xml:space="preserve">
+    <value>No soportado</value>
+  </data>
+  <data name="TYJS_000130" xml:space="preserve">
+    <value>Cargo de reembolso</value>
+  </data>
+  <data name="TYJS_000126" xml:space="preserve">
+    <value>EA trading</value>
+  </data>
+  <data name="TYJS_000125" xml:space="preserve">
+    <value>Ingrese más detalles</value>
+  </data>
+  <data name="TYJS_000127" xml:space="preserve">
+    <value>Soportado</value>
+  </data>
+  <data name="TYJS_000124" xml:space="preserve">
+    <value>Diario pagado</value>
+  </data>
+  <data name="TYJS_000121" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="TYJS_000120" xml:space="preserve">
+    <value>Ingrese al corredor</value>
+  </data>
+  <data name="TYJS_000122" xml:space="preserve">
+    <value>Ingrese el tema</value>
+  </data>
+  <data name="TYJS_000123" xml:space="preserve">
+    <value>Detalles</value>
+  </data>
+  <data name="TYJS_000119" xml:space="preserve">
+    <value>Comerciante</value>
+  </data>
+  <data name="TYJS_000118" xml:space="preserve">
+    <value>Ingrese el precio del boleto</value>
+  </data>
+  <data name="TYJS_000116" xml:space="preserve">
+    <value>Ingrese la asistencia estimada</value>
+  </data>
+  <data name="TYJS_000117" xml:space="preserve">
+    <value>Precio de la entrada</value>
+  </data>
+  <data name="TYJS_000115" xml:space="preserve">
+    <value>Asistencia estimada</value>
+  </data>
+  <data name="TYJS_000114" xml:space="preserve">
+    <value>Ingrese la hora de cierre</value>
+  </data>
+  <data name="TYJS_000112" xml:space="preserve">
+    <value>Ingrese la hora de inicio</value>
+  </data>
+  <data name="TYJS_000113" xml:space="preserve">
+    <value>Hora de cierre</value>
+  </data>
+  <data name="TYJS_000111" xml:space="preserve">
+    <value>Tiempo de empezar</value>
+  </data>
+  <data name="TYJS_000110" xml:space="preserve">
+    <value>Ingrese la ciudad anfitriona</value>
+  </data>
+  <data name="TYJS_000107" xml:space="preserve">
+    <value>Solo puedes subir hasta 10 fotos</value>
+  </data>
+  <data name="TYJS_000108" xml:space="preserve">
+    <value>Ingrese el nombre del patrocinador</value>
+  </data>
+  <data name="TYJS_000109" xml:space="preserve">
+    <value>Ciudad anfitriona</value>
+  </data>
+  <data name="TYJS_000104" xml:space="preserve">
+    <value>Publicado con éxito</value>
+  </data>
+  <data name="TYJS_000106" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="TYJS_000105" xml:space="preserve">
+    <value>Publicación fallida</value>
+  </data>
+  <data name="TYJS_000102" xml:space="preserve">
+    <value>Título es requerido</value>
+  </data>
+  <data name="TYJS_000103" xml:space="preserve">
+    <value>Me gustó</value>
+  </data>
+  <data name="TYJS_000100" xml:space="preserve">
+    <value>Error al comentar</value>
+  </data>
+  <data name="TYJS_000095" xml:space="preserve">
+    <value>Costos de mantenimiento</value>
+  </data>
+  <data name="TYJS_000101" xml:space="preserve">
+    <value>Los visitantes no pueden publicar</value>
+  </data>
+  <data name="TYJS_000098" xml:space="preserve">
+    <value>Precio de venta (USD)</value>
+  </data>
+  <data name="TYJS_000096" xml:space="preserve">
+    <value>Ingrese el costo de mantenimiento</value>
+  </data>
+  <data name="TYJS_000099" xml:space="preserve">
+    <value>Ingrese el precio de venta</value>
+  </data>
+  <data name="TYJS_000094" xml:space="preserve">
+    <value>Ingrese el precio de la aplicación</value>
+  </data>
+  <data name="TYJS_000093" xml:space="preserve">
+    <value>Precio de la solicitud</value>
+  </data>
+  <data name="TYJS_000097" xml:space="preserve">
+    <value>Tiempo de registro</value>
+  </data>
+  <data name="TYJS_000089" xml:space="preserve">
+    <value>No requerido</value>
+  </data>
+  <data name="TYJS_000090" xml:space="preserve">
+    <value>Ingrese a la región reguladora</value>
+  </data>
+  <data name="TYJS_000092" xml:space="preserve">
+    <value>Ingrese el tipo de licencia</value>
+  </data>
+  <data name="TYJS_000088" xml:space="preserve">
+    <value>Necesario</value>
+  </data>
+  <data name="TYJS_000087" xml:space="preserve">
+    <value>Requisitos principales del cuerpo</value>
+  </data>
+  <data name="TYJS_000091" xml:space="preserve">
+    <value>Entra en el regulador</value>
+  </data>
+  <data name="TYJS_000084" xml:space="preserve">
+    <value>Tarifa de manejo （USD）</value>
+  </data>
+  <data name="TYJS_000083" xml:space="preserve">
+    <value>Ingrese el tipo de canal</value>
+  </data>
+  <data name="TYJS_000086" xml:space="preserve">
+    <value>Ingrese el período de solicitud</value>
+  </data>
+  <data name="TYJS_000082" xml:space="preserve">
+    <value>Tipo de canal</value>
+  </data>
+  <data name="TYJS_000081" xml:space="preserve">
+    <value>Publicar</value>
+  </data>
+  <data name="TYJS_000085" xml:space="preserve">
+    <value>Ingrese la tarifa de manejo</value>
+  </data>
+  <data name="TYJS_000080" xml:space="preserve">
+    <value>Ingrese el número QQ</value>
+  </data>
+  <data name="TYJS_000076" xml:space="preserve">
+    <value>Correo electrónico</value>
+  </data>
+  <data name="TYJS_000079" xml:space="preserve">
+    <value>QQ</value>
+  </data>
+  <data name="TYJS_000078" xml:space="preserve">
+    <value>Ingrese el número de WeChat</value>
+  </data>
+  <data name="TYJS_000074" xml:space="preserve">
+    <value>Please enter Twitter</value>
+  </data>
+  <data name="TYJS_000075" xml:space="preserve">
+    <value>Correo electrónico</value>
+  </data>
+  <data name="TYJS_000073" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="TYJS_000077" xml:space="preserve">
+    <value>WeChat</value>
+  </data>
+  <data name="TYJS_000070" xml:space="preserve">
+    <value>Ingrese su Instragram</value>
+  </data>
+  <data name="TYJS_000072" xml:space="preserve">
+    <value>Please enter Facebook</value>
+  </data>
+  <data name="TYJS_000069" xml:space="preserve">
+    <value>Instagram</value>
+  </data>
+  <data name="TYJS_000071" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="TYJS_000065" xml:space="preserve">
+    <value>Describa el producto en detalle.</value>
+  </data>
+  <data name="TYJS_000067" xml:space="preserve">
+    <value>Número de teléfono móvil</value>
+  </data>
+  <data name="TYJS_000068" xml:space="preserve">
+    <value>Número de teléfono móvil</value>
+  </data>
+  <data name="TYJS_000066" xml:space="preserve">
+    <value>Contacto</value>
+  </data>
+  <data name="TYJS_000063" xml:space="preserve">
+    <value>Ingrese al sitio web oficial</value>
+  </data>
+  <data name="TYJS_000064" xml:space="preserve">
+    <value>Describa la compañía en detalle.</value>
+  </data>
+  <data name="TYJS_000059" xml:space="preserve">
+    <value>Otros</value>
+  </data>
+  <data name="TYJS_000062" xml:space="preserve">
+    <value>Sitio web oficial</value>
+  </data>
+  <data name="TYJS_000061" xml:space="preserve">
+    <value>Ingrese un precio de proyecto</value>
+  </data>
+  <data name="TYJS_000057" xml:space="preserve">
+    <value>Edificio CRM</value>
+  </data>
+  <data name="TYJS_000054" xml:space="preserve">
+    <value>No más de 10 fotos, y dentro de 5M de tamaño, se permiten JPG, PNG y</value>
+  </data>
+  <data name="TYJS_000060" xml:space="preserve">
+    <value>Oferta de proyecto</value>
+  </data>
+  <data name="TYJS_000058" xml:space="preserve">
+    <value>Edificio oficial</value>
+  </data>
+  <data name="TYJS_000056" xml:space="preserve">
+    <value>Edificio MT4</value>
+  </data>
+  <data name="TYJS_000051" xml:space="preserve">
+    <value>Título</value>
+  </data>
+  <data name="TYJS_000053" xml:space="preserve">
+    <value>Subir la imagen</value>
+  </data>
+  <data name="TYJS_000052" xml:space="preserve">
+    <value>Por favor ingrese un título</value>
+  </data>
+  <data name="TYJS_000055" xml:space="preserve">
+    <value>Tipo de plataforma</value>
+  </data>
+  <data name="TYJS_000050" xml:space="preserve">
+    <value>Seleccione una categoría</value>
+  </data>
+  <data name="TYJS_000045" xml:space="preserve">
+    <value>Registrarse / comentar</value>
+  </data>
+  <data name="TYJS_000047" xml:space="preserve">
+    <value>{0}comentarios</value>
+  </data>
+  <data name="TYJS_000048" xml:space="preserve">
+    <value>Me gustó</value>
+  </data>
+  <data name="TYJS_000046" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="TYJS_000049" xml:space="preserve">
+    <value>Ver {0} respuestas</value>
+  </data>
+  <data name="TYJS_000043" xml:space="preserve">
+    <value>Q&amp;A</value>
+  </data>
+  <data name="TYJS_000044" xml:space="preserve">
+    <value>Escribe tu pregunta ...</value>
+  </data>
+  <data name="TYJS_000041" xml:space="preserve">
+    <value>Álbum de mercado</value>
+  </data>
+  <data name="TYJS_000042" xml:space="preserve">
+    <value>Me gusta</value>
+  </data>
+  <data name="TYJS_000039" xml:space="preserve">
+    <value>Detalles de producto</value>
+  </data>
+  <data name="TYJS_000040" xml:space="preserve">
+    <value>Sumario de la compañía</value>
+  </data>
+  <data name="TYJS_000037" xml:space="preserve">
+    <value>Nombre del anfitrión</value>
+  </data>
+  <data name="TYJS_000032" xml:space="preserve">
+    <value>Frecuencia de aplicación</value>
+  </data>
+  <data name="TYJS_000035" xml:space="preserve">
+    <value>Precio de solicitud (USD)</value>
+  </data>
+  <data name="TYJS_000038" xml:space="preserve">
+    <value>Ver</value>
+  </data>
+  <data name="TYJS_000036" xml:space="preserve">
+    <value>Costo de mantenimiento (USD)</value>
+  </data>
+  <data name="TYJS_000033" xml:space="preserve">
+    <value>Tipo de licencia</value>
+  </data>
+  <data name="TYJS_000031" xml:space="preserve">
+    <value>Organismo de supervisión</value>
+  </data>
+  <data name="TYJS_000034" xml:space="preserve">
+    <value>Área reglamentaria</value>
+  </data>
+  <data name="TYJS_000028" xml:space="preserve">
+    <value>Release time</value>
+  </data>
+  <data name="TYJS_000029" xml:space="preserve">
+    <value>Enviar al teléfono</value>
+  </data>
+  <data name="TYJS_000030" xml:space="preserve">
+    <value>Cumplido</value>
+  </data>
+  <data name="TYJS_000024" xml:space="preserve">
+    <value>Entregar</value>
+  </data>
+  <data name="TYJS_000026" xml:space="preserve">
+    <value>Responder</value>
+  </data>
+  <data name="TYJS_000027" xml:space="preserve">
+    <value>Muestra menos</value>
+  </data>
+  <data name="TYJS_000025" xml:space="preserve">
+    <value>Escribe tu respuesta</value>
+  </data>
+  <data name="TYJS_000023" xml:space="preserve">
+    <value>Categoría del foro</value>
+  </data>
+  <data name="TYJS_000022" xml:space="preserve">
+    <value>Contenido caliente</value>
+  </data>
+  <data name="TYJS_000019" xml:space="preserve">
+    <value>En la industria</value>
+  </data>
+  <data name="TYJS_000020" xml:space="preserve">
+    <value>Índice técnico</value>
+  </data>
+  <data name="TYJS_000018" xml:space="preserve">
+    <value>Mercado</value>
+  </data>
+  <data name="TYJS_000013" xml:space="preserve">
+    <value>Reclutamiento</value>
+  </data>
+  <data name="TYJS_000021" xml:space="preserve">
+    <value>Índice</value>
+  </data>
+  <data name="TYJS_000017" xml:space="preserve">
+    <value>Análisis de mercado</value>
+  </data>
+  <data name="TYJS_000015" xml:space="preserve">
+    <value>Comparte nuevas discusiones</value>
+  </data>
+  <data name="TYJS_000016" xml:space="preserve">
+    <value>EA</value>
+  </data>
+  <data name="TYJS_000010" xml:space="preserve">
+    <value>Atraer inversiones en negocios</value>
+  </data>
+  <data name="TYJS_000012" xml:space="preserve">
+    <value>Reclutamiento de equipos</value>
+  </data>
+  <data name="TYJS_000006" xml:space="preserve">
+    <value>Canal de pago</value>
+  </data>
+  <data name="TYJS_000014" xml:space="preserve">
+    <value>Reclutamiento individual</value>
+  </data>
+  <data name="TYJS_000011" xml:space="preserve">
+    <value>Agente</value>
+  </data>
+  <data name="TYJS_000009" xml:space="preserve">
+    <value>Exposición</value>
+  </data>
+  <data name="TYJS_000008" xml:space="preserve">
+    <value>Transferencia de licencia</value>
+  </data>
+  <data name="TYJS_000004" xml:space="preserve">
+    <value>Escanear para ver</value>
+  </data>
+  <data name="TYJS_000007" xml:space="preserve">
+    <value>Agencia de licencias</value>
+  </data>
+  <data name="TYJS_000002" xml:space="preserve">
+    <value>Foro</value>
+  </data>
+  <data name="TYJS_000001" xml:space="preserve">
+    <value>Publicar</value>
+  </data>
+  <data name="TYJS_000005" xml:space="preserve">
+    <value>Plataforma</value>
+  </data>
+  <data name="TYJS_000301" xml:space="preserve">
+    <value>Hace {0} minutos</value>
+  </data>
+  <data name="TYJS_000003" xml:space="preserve">
+    <value>Publicar resultados de información</value>
+  </data>
+  <data name="TYJS_000300" xml:space="preserve">
+    <value>Hace {0} días</value>
+  </data>
+  <data name="TYJS_000302" xml:space="preserve">
+    <value>Hace {0} hora</value>
+  </data>
+  <data name="TYJS_000305" xml:space="preserve">
+    <value>ayer {0}</value>
+  </data>
+  <data name="TYJS_000304" xml:space="preserve">
+    <value>ayer</value>
+  </data>
+</root>

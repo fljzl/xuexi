@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var data = ViewBag.data as ChuanZhiModel;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    @await Html.PartialAsync("/Views/Home/_add.cshtml", data)
+</div>
+
+<div>
+    @await Html.PartialAsync("/Views/Home/_add2.cshtml", new { jys = "1212", pwd = "88888" })
+</div>

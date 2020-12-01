@@ -1,0 +1,8 @@
+﻿@*方式三*@
+@{
+    var name = Model.GetType().GetProperty("pwd").GetValue(Model, null);
+}
+
+<div>
+    @name
+</div>

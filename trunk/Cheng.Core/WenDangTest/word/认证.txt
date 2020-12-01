@@ -1,0 +1,34 @@
+﻿https://www.cnblogs.com/jlion/category/1663828.html 实战效果
+
+认证的服务端步骤如下：
+1.第一步授权： 创建Config
+2.第二部授权：
+            #region 内存方式,认证的第二步
+            //AddDeveloperSigningCredential：添加证书加密方式，执行该方法，会先判断tempkey.rsa证书文件是否存在，如果不存在的话，就创建一个新的tempkey.rsa证书文件，如果存在的话，就使用此证书文件。
+            //AddInMemoryApiResources：把受保护的Api资源添加到内存中
+            //AddInMemoryClients ：客户端配置添加到内存中
+            //AddTestUsers ：测试的用户添加进来
+
+            services.AddIdentityServer()
+                .AddDeveloperSigningCredential()
+                .AddInMemoryApiResources(Config.GetApiResources())
+                .AddInMemoryClients(Config.GetClients())
+                .AddTestUsers(Config.GetUsers())
+                ;
+            #endregion
+3.第三步授权
+
+            #region 认证的第三步
+
+            app.UseIdentityServer();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            #endregion
+
+4.测试是否可以用
+访问：  http://localhost:5000/.well-known/openid-configuration， 能打开表示成功；
+
+

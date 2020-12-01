@@ -1,0 +1,47 @@
+﻿5.新建一个真正的要提供给第三方的api 接口
+
+获取token:
+http://localhost:5002/connect/token
+传值：账号密码的方式处理
+
+postman: form表单提交
+
+client_id  ：ro.client
+client_secret：secret
+grant_type ：password
+password：password
+username：bob
+
+对应的后台模式：
+  new Client
+{
+    ClientId = "ro.client",
+    AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
+    AccessTokenLifetime = 5,
+    ClientSecrets =
+    {
+        new Secret("secret".Sha256())
+    },
+    AllowedScopes = { "api1" }
+}
+
+new TestUser
+{
+    SubjectId = "2",
+    Username = "bob",
+    Password = "password"
+}
+
+
+得到的结果：
+
+{
+    "access_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjIzYzk1YmEyZTE4MTI3MjdiZDgxZjVkNjI1MzljMWE2IiwidHlwIjoiSldUIn0.eyJuYmYiOjE1OTY2OTY3NTgsImV4cCI6MTU5NjY5Njc2MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAyIiwiYXVkIjpbImh0dHA6Ly9sb2NhbGhvc3Q6NTAwMi9yZXNvdXJjZXMiLCJhcGkxIl0sImNsaWVudF9pZCI6InJvLmNsaWVudCIsInN1YiI6IjIiLCJhdXRoX3RpbWUiOjE1OTY2OTY3NTgsImlkcCI6ImxvY2FsIiwic2NvcGUiOlsiYXBpMSJdLCJhbXIiOlsicHdkIl19.MvEdVsV3HuV5yPcTkzNm9ygq3Vll_dAgQn9eiQ9jLQ67GUy5Bg9kw77DlmPZbRezIeETPkexeJPISuAtsajr36Zr4IEbOdxm0YgyiRkbMIya7B_aelNOIJ5jrG8vQm_XunXil3_XRslnTB0MLRW_gw9CRwv56uBDnkwUv2TO-ln1AeHvu4BZTf47SF_fBsODHKhJWOr8XkQXW1usxPLH9FgKW0oweD8EDjPoa_Qscay52TCKuC4GJ3k94Pfzs0FjUngOSxeCjFDWizkx_1e5kTjPWkmMrpTZ7TfClXJd7VC8W7KA96VwlJfGt6f5kyLpyN3NuSYNs5VY5qrC0FPpEw",
+    "expires_in": 5,
+    "token_type": "Bearer"
+}
+
+
+得到token以后，继续请求对应的接口：
+请求头部加上：Bearer 空格 加上token
+Authorization ：Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjIzYzk1YmEyZTE4MTI3MjdiZDgxZjVkNjI1MzljMWE2IiwidHlwIjoiSldUIn0.eyJuYmYiOjE1OTY3MDM2NjEsImV4cCI6MTU5NjcwMzY2NiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAyIiwiYXVkIjpbImh0dHA6Ly9sb2NhbGhvc3Q6NTAwMi9yZXNvdXJjZXMiLCJhcGkxIl0sImNsaWVudF9pZCI6InJvLmNsaWVudCIsInN1YiI6IjIiLCJhdXRoX3RpbWUiOjE1OTY3MDM2NjAsImlkcCI6ImxvY2FsIiwic2NvcGUiOlsiYXBpMSJdLCJhbXIiOlsicHdkIl19.kqVw9FY4FML6xel_lNSNVcts8wIEcEOaQ73ng0AAIthU2DlQm0lYT0Tk9PbgtJfdhWjt9koA4Vw9RYIy0wufqRq0j-KpThhhVNfdqSkyp0iC7-I32XKq7wyON_ctD2qqLoA3XF7TKNqILsUfppsdHAIeRLlxTcFEsPM4UftCvHJL5qVubi7yQFP9EWFszMPaLslKsA0bf_OYqORMxqYVBBeHy0sSyYVAvH9yCY0IDPnp74azjAYdkoBDDWi6CzA4OIu3XO3_bFRZ_ok368c9W6cY0YZ-EaHHR0FATp3AjkwIHL858rgohOcxVsl-BKlUpMKEaFrhVTi7tlsluhBQTw

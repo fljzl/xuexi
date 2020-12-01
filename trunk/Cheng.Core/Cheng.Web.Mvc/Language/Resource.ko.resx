@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TYJS_000303" xml:space="preserve">
+    <value>방금</value>
+  </data>
+  <data name="TYJS_000297" xml:space="preserve">
+    <value>뉴스 및 잡지_ 시장 - WikiFX</value>
+  </data>
+  <data name="TYJS_000299" xml:space="preserve">
+    <value>시장, 대리 판매상 시장, 위 키 백과, 대리 판매상 뉴스, 대리 판매상 플랫폼, 플랫폼 구축, IB 투자 촉진, 시장 분석, EA 관련, 소문, 사장 직접 고용, 대리 판매상 전시 정보, 전 세계 에서 대리 판매상 을 폭로.</value>
+  </data>
+  <data name="TYJS_000295" xml:space="preserve">
+    <value>웹 사이트 구축</value>
+  </data>
+  <data name="TYJS_000293" xml:space="preserve">
+    <value>MT4 빌딩</value>
+  </data>
+  <data name="TYJS_000298" xml:space="preserve">
+    <value>시장, 대리 판매상 시장 뉴스 는 위 키 FX 가 소유 하고 플랫폼 건설, IB 투자 촉진, 시장 분석, EA 관련, 소문, 사장 직접 고용, 전시회 정보 와 노출 을 포함한다.</value>
+  </data>
+  <data name="TYJS_000289" xml:space="preserve">
+    <value>가입</value>
+  </data>
+  <data name="TYJS_000291" xml:space="preserve">
+    <value>제공할 필요 없음</value>
+  </data>
+  <data name="TYJS_000296" xml:space="preserve">
+    <value>글로벌 외환 매매 관리감독 조회 APP</value>
+  </data>
+  <data name="TYJS_000294" xml:space="preserve">
+    <value>CRM 구축</value>
+  </data>
+  <data name="TYJS_000292" xml:space="preserve">
+    <value>나 도 댓 글 달 래.</value>
+  </data>
+  <data name="TYJS_000290" xml:space="preserve">
+    <value>관련 품목 을 선택 하 세 요.</value>
+  </data>
+  <data name="TYJS_000285" xml:space="preserve">
+    <value>리베이트주기</value>
+  </data>
+  <data name="TYJS_000288" xml:space="preserve">
+    <value>대화식 리뷰</value>
+  </data>
+  <data name="TYJS_000287" xml:space="preserve">
+    <value>성공적으로 취소되었습니다</value>
+  </data>
+  <data name="TYJS_000284" xml:space="preserve">
+    <value>시간을 선택하세요</value>
+  </data>
+  <data name="TYJS_000283" xml:space="preserve">
+    <value>공식 주소를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000286" xml:space="preserve">
+    <value>회사 소재지</value>
+  </data>
+  <data name="TYJS_000282" xml:space="preserve">
+    <value>거절 사유</value>
+  </data>
+  <data name="TYJS_000280" xml:space="preserve">
+    <value>공식 건물</value>
+  </data>
+  <data name="TYJS_000279" xml:space="preserve">
+    <value>CRM 구축</value>
+  </data>
+  <data name="TYJS_000276" xml:space="preserve">
+    <value>마감 결산</value>
+  </data>
+  <data name="TYJS_000281" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="TYJS_000275" xml:space="preserve">
+    <value>월별 지불</value>
+  </data>
+  <data name="TYJS_000278" xml:space="preserve">
+    <value>MT4 빌딩</value>
+  </data>
+  <data name="TYJS_000271" xml:space="preserve">
+    <value>지원</value>
+  </data>
+  <data name="TYJS_000277" xml:space="preserve">
+    <value>상의 후 결정</value>
+  </data>
+  <data name="TYJS_000273" xml:space="preserve">
+    <value>매일 지불</value>
+  </data>
+  <data name="TYJS_000272" xml:space="preserve">
+    <value>미지원</value>
+  </data>
+  <data name="TYJS_000270" xml:space="preserve">
+    <value>라이센스 기관</value>
+  </data>
+  <data name="TYJS_000274" xml:space="preserve">
+    <value>주간 지불</value>
+  </data>
+  <data name="TYJS_000266" xml:space="preserve">
+    <value>{0} 정보 게시_ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000267" xml:space="preserve">
+    <value>Market, Trader Market News는 WikiFX에 속한 플랫폼 구성의 8 개 주요 부분, IB 투자 촉진, 시장 분석, EA 관련, 의견, 보스 직접 고용, 전시회 정보, 노출 등을 포함하는 WikiFX에 속합니다.</value>
+  </data>
+  <data name="TYJS_000269" xml:space="preserve">
+    <value>라이센스 양도</value>
+  </data>
+  <data name="TYJS_000265" xml:space="preserve">
+    <value>{0}, EA 주변기기, 트레이더 EA 관련, 마켓, WikiFX</value>
+  </data>
+  <data name="TYJS_000268" xml:space="preserve">
+    <value>마켓, 트레이더 마켓, WikiFX, 트레이더 뉴스, 트레이더 플랫폼, 플랫폼 구축, IB 투자 프로모션, 마켓 분석, EA 관련, 청문회, 보스 직접 고용, 트레이더 전시회 정보, 글로벌 노출 트레이더</value>
+  </data>
+  <data name="TYJS_000261" xml:space="preserve">
+    <value>모든 유형의 EA의 장점은 여기에서 확인할 수 있습니다. 경향, 추세 및 정량적 거래 EA는 가장 큰 거래 포인트이며, 원하는대로 구매할 수 있습니다.</value>
+  </data>
+  <data name="TYJS_000264" xml:space="preserve">
+    <value>모든 유형의 EA의 장점은 여기에서 확인할 수 있습니다. 경향, 추세 및 정량적 거래 EA는 가장 큰 거래 포인트이며, 원하는대로 구매할 수 있습니다.</value>
+  </data>
+  <data name="TYJS_000263" xml:space="preserve">
+    <value>{0}_지시자_ 시장-WikiFX</value>
+  </data>
+  <data name="TYJS_000260" xml:space="preserve">
+    <value>트레이더 트레이딩 인디케이터 _Indicators_Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000262" xml:space="preserve">
+    <value>EA 주변기기, 트레이더 EA 관련, 마켓, WikiFX</value>
+  </data>
+  <data name="TYJS_000259" xml:space="preserve">
+    <value>{0} _Trader EA 관련, EA, EA 에이전트, EA 소스 코드, EA 주변기기, EA 거래 전략, EA 거래 데이터, 마켓, WikiFX</value>
+  </data>
+  <data name="TYJS_000257" xml:space="preserve">
+    <value>{0} _EA 관련 _ 시장-WikiFX</value>
+  </data>
+  <data name="TYJS_000256" xml:space="preserve">
+    <value>거래자 EA 관련, EA, EA 에이전트, EA 소스 코드, EA 주변기기, EA 거래 전략, EA 거래 데이터, 마켓, WikiFX</value>
+  </data>
+  <data name="TYJS_000255" xml:space="preserve">
+    <value>거래자와 관련된 EA는 EA 에이전트, EA 소스 코드, EA 주변 장치 및 기타 열로 구성되며, 주로 EA 거래 전략, EA 거래 데이터 등에 사용되며 거래자와 실무자는 공급과 수요를 선택할 수 있습니다</value>
+  </data>
+  <data name="TYJS_000258" xml:space="preserve">
+    <value>거래자와 관련된 EA는 EA 에이전트, EA 소스 코드, EA 주변 장치 및 기타 열로 구성되며, 주로 EA 거래 전략, EA 거래 데이터 등에 사용되며 거래자와 실무자는 공급과 수요를 선택할 수 있습니다</value>
+  </data>
+  <data name="TYJS_000251" xml:space="preserve">
+    <value>{0} _ 업계 뉴스 _Market-WikiFX</value>
+  </data>
+  <data name="TYJS_000252" xml:space="preserve">
+    <value>상인들은 업계 최고의 인물에 대한 이야기를 들었습니다. 당신은 얼마나 알고 있나요? 이 캐릭터의 전설적인 이야기를 통해 당신을 안내합니다</value>
+  </data>
+  <data name="TYJS_000249" xml:space="preserve">
+    <value>업계 정보 세부 사항, 뉴스 세부 사항, 공급 및 수요 세부 사항, 노출 세부 사항, 컨텐츠 콜렉션, 컨텐츠는 정보이며 사실이 아닙니다.</value>
+  </data>
+  <data name="TYJS_000254" xml:space="preserve">
+    <value>트레이더 EA 관련 _EA 관련 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000250" xml:space="preserve">
+    <value>상인들은 정보, 업계, 마켓, WikiFX를 들었습니다.</value>
+  </data>
+  <data name="TYJS_000253" xml:space="preserve">
+    <value>{0}, 거래자 의견, 마켓, WikiFX, 범례, 라이프 노트</value>
+  </data>
+  <data name="TYJS_000247" xml:space="preserve">
+    <value>{0}, 거래자 시장 분석, Market, WikiFX, 거래 전략, 동향</value>
+  </data>
+  <data name="TYJS_000243" xml:space="preserve">
+    <value>거래자와 실무자는 업계의 최근 시장 데이터를 분석하고 더 많은 거래자와 실무자가 시장을 이해할 수 있도록 시장 분석 열에서 공유합니다. 신들이 여기 있습니다.</value>
+  </data>
+  <data name="TYJS_000248" xml:space="preserve">
+    <value>무역 사업 뉴스 _ 산업 뉴스 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000245" xml:space="preserve">
+    <value>{0} _ 시장 분석 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000242" xml:space="preserve">
+    <value>딜러 시장 분석 _ 시장 분석 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000244" xml:space="preserve">
+    <value>딜러 시장 분석, 시장 분석, 선물, 금, 외환, 시장, WikiFX</value>
+  </data>
+  <data name="TYJS_000246" xml:space="preserve">
+    <value>시장 분석에서 거래자와 실무자는 현재 동향과 거래 전략에서 시작하여 최근 데이터를 분석하고 최근 동향과 실시간 데이터 표시를 반영합니다.</value>
+  </data>
+  <data name="TYJS_000241" xml:space="preserve">
+    <value>{0}, 트레이더 보스, Market, WikiFX, 트레이더, 트레이더, 개업의, IB가 직접 고용</value>
+  </data>
+  <data name="TYJS_000240" xml:space="preserve">
+    <value>거래자, 거래자, 실무자, IB, 뛰어난 개인 및 수퍼 그룹을 모집하기위한 플랫폼.</value>
+  </data>
+  <data name="TYJS_000237" xml:space="preserve">
+    <value>거래자, 거래자, 실무자, IB, 뛰어난 개인 및 수퍼 그룹을 모집하기위한 플랫폼.</value>
+  </data>
+  <data name="TYJS_000238" xml:space="preserve">
+    <value>상인 상사, 시장, WikiFX, 상인, 실무자, IB 직접 고용</value>
+  </data>
+  <data name="TYJS_000235" xml:space="preserve">
+    <value>{0}, EA 거래, 트레이더 IB 투자, IB 투자, 마켓, WikiFX, 해외 도우미, 리베이트</value>
+  </data>
+  <data name="TYJS_000239" xml:space="preserve">
+    <value>{0} _ 채용 정보 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000236" xml:space="preserve">
+    <value>트레이더 사장님이 직접 고용했습니다-모집 정보 _시장-WikiFX</value>
+  </data>
+  <data name="TYJS_000233" xml:space="preserve">
+    <value>{0} _IB 가맹점 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000234" xml:space="preserve">
+    <value>공식 웹 사이트 투자 프로모션, 트레이더 IB 투자 페이지는 주로 EA 거래, 해외 도우미, 수수료 리베이트 수수료, 수수료 리베이트 기간, 제품 설명 및 시장 앨범 부분으로 구성되어 있으며 주로 계정을 소개하고 커미션을받을 기관 및 개인을 찾습니다.</value>
+  </data>
+  <data name="TYJS_000231" xml:space="preserve">
+    <value>트레이더 IB 투자, 기관 또는 개인은 커미션을 수락하고 고객에게 계정을 개설하고 특정 커미션을 청구하도록 안내합니다. 공식 투자는 신뢰할 수 있습니다</value>
+  </data>
+  <data name="TYJS_000232" xml:space="preserve">
+    <value>트레이더 IB 투자, IB 투자, 시장, WikiFX, 수수료, 공식 투자</value>
+  </data>
+  <data name="TYJS_000229" xml:space="preserve">
+    <value>{0}, 트레이더 전시회 정보, 트레이더 전시회, 마켓, WikiFX</value>
+  </data>
+  <data name="TYJS_000230" xml:space="preserve">
+    <value>무역 박람회 IB 상인 _IB 상인 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000228" xml:space="preserve">
+    <value>전시회 주제, 행사 시간, 공식 웹 사이트, 개최 도시, 예상 인원 수, 티켓 가격 및 전시 세부 사항에 대해. 여기에서 찾아 볼 수있는 자세한 데이터가 있습니다</value>
+  </data>
+  <data name="TYJS_000223" xml:space="preserve">
+    <value>{0}, 플랫폼 구축, 트레이더 플랫폼 구축, 마켓, WikiFX</value>
+  </data>
+  <data name="TYJS_000227" xml:space="preserve">
+    <value>{0} _ 전시 정보 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000225" xml:space="preserve">
+    <value>글로벌 트레이더, 트레이더, 실무자, IB 및 전시회 포럼 살롱은 모두 여기에서 볼 수 있습니다.</value>
+  </data>
+  <data name="TYJS_000224" xml:space="preserve">
+    <value>트레이더 전시회 정보 _ 전시 정보 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000226" xml:space="preserve">
+    <value>트레이더 쇼 정보, 트레이더 쇼, 시장, WikiFX, 엑스포, 포럼, 살롱, 글로벌 트레이더, 트레이더, 개업의, IB</value>
+  </data>
+  <data name="TYJS_000220" xml:space="preserve">
+    <value>시장, WikiFX, 트레이더 플랫폼, 플랫폼 구축, 지불 채널, 라이센스 양도, 라이센스 구매, 라이센스 에이전트</value>
+  </data>
+  <data name="TYJS_000221" xml:space="preserve">
+    <value>{0} _ 플랫폼 구성 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000217" xml:space="preserve">
+    <value>답장을 입력 해주세요</value>
+  </data>
+  <data name="TYJS_000219" xml:space="preserve">
+    <value>딜러 플랫폼의 구성은 WikiFX에 속하는 마켓에 있으며, 딜러 플랫폼의 구성은 플랫폼 구성, 지불 채널, 라이센스 전송, 라이센스 구매, 라이센스 기관 등으로 구성됩니다.</value>
+  </data>
+  <data name="TYJS_000218" xml:space="preserve">
+    <value>트레이더 플랫폼 구축 _ 플랫폼 구축 _ 시장 -WikiFX</value>
+  </data>
+  <data name="TYJS_000222" xml:space="preserve">
+    <value>딜러의 플랫폼 구축 페이지는 딜러와 실무자에 의해 출판 된 제목, 플랫폼 유형, 프로젝트 견적, 제품 설명, 회사 소개 및 시장 앨범으로 구성됩니다. 제품 설명에는 딜러와 실무자의 플랫폼 구축 요구 사항이 설명되어 있습니다.</value>
+  </data>
+  <data name="TYJS_000215" xml:space="preserve">
+    <value>새로운 시장 협력을 추구</value>
+  </data>
+  <data name="TYJS_000213" xml:space="preserve">
+    <value>시스템 구축</value>
+  </data>
+  <data name="TYJS_000212" xml:space="preserve">
+    <value>유효하지 않은 이미지 형식</value>
+  </data>
+  <data name="TYJS_000214" xml:space="preserve">
+    <value>내용 세부 사항</value>
+  </data>
+  <data name="TYJS_000210" xml:space="preserve">
+    <value>WikiFX평점</value>
+  </data>
+  <data name="TYJS_000216" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="TYJS_000208" xml:space="preserve">
+    <value>홈</value>
+  </data>
+  <data name="TYJS_000211" xml:space="preserve">
+    <value>먼저 로그인하십시오</value>
+  </data>
+  <data name="TYJS_000209" xml:space="preserve">
+    <value>신고 내용을 입력하세요.</value>
+  </data>
+  <data name="TYJS_000204" xml:space="preserve">
+    <value>편집하려면 :</value>
+  </data>
+  <data name="TYJS_000205" xml:space="preserve">
+    <value>9 장 이하, 5M 이내의 JPG, PNG 허용됩니다.</value>
+  </data>
+  <data name="TYJS_000207" xml:space="preserve">
+    <value>데이터가 없습니다</value>
+  </data>
+  <data name="TYJS_000201" xml:space="preserve">
+    <value>떠나다</value>
+  </data>
+  <data name="TYJS_000199" xml:space="preserve">
+    <value>필수</value>
+  </data>
+  <data name="TYJS_000206" xml:space="preserve">
+    <value>웹 사이트</value>
+  </data>
+  <data name="TYJS_000198" xml:space="preserve">
+    <value>계속하여 편집</value>
+  </data>
+  <data name="TYJS_000197" xml:space="preserve">
+    <value>당신은 당신의 텍스트를 삭제 하시겠습니까?</value>
+  </data>
+  <data name="TYJS_000195" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="TYJS_000200" xml:space="preserve">
+    <value>내용</value>
+  </data>
+  <data name="TYJS_000192" xml:space="preserve">
+    <value>처럼</value>
+  </data>
+  <data name="TYJS_000194" xml:space="preserve">
+    <value>잘못된 형식</value>
+  </data>
+  <data name="TYJS_000196" xml:space="preserve">
+    <value>편집 한 내용을 게시 하시겠습니까?</value>
+  </data>
+  <data name="TYJS_000191" xml:space="preserve">
+    <value>12월</value>
+  </data>
+  <data name="TYJS_000189" xml:space="preserve">
+    <value>10월</value>
+  </data>
+  <data name="TYJS_000187" xml:space="preserve">
+    <value>8월</value>
+  </data>
+  <data name="TYJS_000188" xml:space="preserve">
+    <value>9월</value>
+  </data>
+  <data name="TYJS_000193" xml:space="preserve">
+    <value>귀하의 위치 :</value>
+  </data>
+  <data name="TYJS_000190" xml:space="preserve">
+    <value>11월</value>
+  </data>
+  <data name="TYJS_000186" xml:space="preserve">
+    <value>7월</value>
+  </data>
+  <data name="TYJS_000183" xml:space="preserve">
+    <value>4월</value>
+  </data>
+  <data name="TYJS_000185" xml:space="preserve">
+    <value>6월</value>
+  </data>
+  <data name="TYJS_000182" xml:space="preserve">
+    <value>3월</value>
+  </data>
+  <data name="TYJS_000184" xml:space="preserve">
+    <value>5월</value>
+  </data>
+  <data name="TYJS_000181" xml:space="preserve">
+    <value>2월</value>
+  </data>
+  <data name="TYJS_000177" xml:space="preserve">
+    <value>Fri.</value>
+  </data>
+  <data name="TYJS_000180" xml:space="preserve">
+    <value>1월</value>
+  </data>
+  <data name="TYJS_000179" xml:space="preserve">
+    <value>Sun.</value>
+  </data>
+  <data name="TYJS_000176" xml:space="preserve">
+    <value>Thur.</value>
+  </data>
+  <data name="TYJS_000178" xml:space="preserve">
+    <value>Sat.</value>
+  </data>
+  <data name="TYJS_000175" xml:space="preserve">
+    <value>Wed.</value>
+  </data>
+  <data name="TYJS_000173" xml:space="preserve">
+    <value>Mon.</value>
+  </data>
+  <data name="TYJS_000172" xml:space="preserve">
+    <value>정보 편집</value>
+  </data>
+  <data name="TYJS_000170" xml:space="preserve">
+    <value>위에 끈적</value>
+  </data>
+  <data name="TYJS_000167" xml:space="preserve">
+    <value>실패한</value>
+  </data>
+  <data name="TYJS_000174" xml:space="preserve">
+    <value>Tues.</value>
+  </data>
+  <data name="TYJS_000171" xml:space="preserve">
+    <value>거래업체 정보</value>
+  </data>
+  <data name="TYJS_000165" xml:space="preserve">
+    <value>코멘트 성공</value>
+  </data>
+  <data name="TYJS_000163" xml:space="preserve">
+    <value>진실로 보고서의 내용을 작성하십시오, 우리는 관련 허위 정보 출판사를 엄격히 처벌 할 것입니다!</value>
+  </data>
+  <data name="TYJS_000169" xml:space="preserve">
+    <value>개최 시간</value>
+  </data>
+  <data name="TYJS_000166" xml:space="preserve">
+    <value>성공</value>
+  </data>
+  <data name="TYJS_000161" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="TYJS_000164" xml:space="preserve">
+    <value>더 보기</value>
+  </data>
+  <data name="TYJS_000156" xml:space="preserve">
+    <value>상품</value>
+  </data>
+  <data name="TYJS_000160" xml:space="preserve">
+    <value>모든 {0} 답변 확인</value>
+  </data>
+  <data name="TYJS_000162" xml:space="preserve">
+    <value>댓글이 아직 없습니다. 첫 번째를 만드십시오.</value>
+  </data>
+  <data name="TYJS_000158" xml:space="preserve">
+    <value>주식</value>
+  </data>
+  <data name="TYJS_000155" xml:space="preserve">
+    <value>외환</value>
+  </data>
+  <data name="TYJS_000154" xml:space="preserve">
+    <value>관련 제품</value>
+  </data>
+  <data name="TYJS_000150" xml:space="preserve">
+    <value>회사 복지</value>
+  </data>
+  <data name="TYJS_000157" xml:space="preserve">
+    <value>원유</value>
+  </data>
+  <data name="TYJS_000148" xml:space="preserve">
+    <value>주소</value>
+  </data>
+  <data name="TYJS_000153" xml:space="preserve">
+    <value>직업 설명을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000151" xml:space="preserve">
+    <value>회사 복지 입력</value>
+  </data>
+  <data name="TYJS_000152" xml:space="preserve">
+    <value>업무 설명서</value>
+  </data>
+  <data name="TYJS_000149" xml:space="preserve">
+    <value>구체적인 주소를 입력하세요.</value>
+  </data>
+  <data name="TYJS_000147" xml:space="preserve">
+    <value>관련 요구 사항을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000145" xml:space="preserve">
+    <value>위치를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000144" xml:space="preserve">
+    <value>위치</value>
+  </data>
+  <data name="TYJS_000142" xml:space="preserve">
+    <value>비즈니스 요구 사항</value>
+  </data>
+  <data name="TYJS_000146" xml:space="preserve">
+    <value>관련 요구 사항</value>
+  </data>
+  <data name="TYJS_000138" xml:space="preserve">
+    <value>급여 수준</value>
+  </data>
+  <data name="TYJS_000143" xml:space="preserve">
+    <value>비즈니스 요구 사항 입력</value>
+  </data>
+  <data name="TYJS_000137" xml:space="preserve">
+    <value>팀 인원수를 입력해 주십시오.</value>
+  </data>
+  <data name="TYJS_000141" xml:space="preserve">
+    <value>국가를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000140" xml:space="preserve">
+    <value>국가</value>
+  </data>
+  <data name="TYJS_000139" xml:space="preserve">
+    <value>급여를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000135" xml:space="preserve">
+    <value>자세한 내용을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000133" xml:space="preserve">
+    <value>월별 지불</value>
+  </data>
+  <data name="TYJS_000136" xml:space="preserve">
+    <value>팀 규모</value>
+  </data>
+  <data name="TYJS_000134" xml:space="preserve">
+    <value>마감 결산</value>
+  </data>
+  <data name="TYJS_000131" xml:space="preserve">
+    <value>정착</value>
+  </data>
+  <data name="TYJS_000129" xml:space="preserve">
+    <value>외환 수수료</value>
+  </data>
+  <data name="TYJS_000132" xml:space="preserve">
+    <value>주간 지불</value>
+  </data>
+  <data name="TYJS_000130" xml:space="preserve">
+    <value>리베이트 요금</value>
+  </data>
+  <data name="TYJS_000128" xml:space="preserve">
+    <value>미지원</value>
+  </data>
+  <data name="TYJS_000126" xml:space="preserve">
+    <value>EA 거래</value>
+  </data>
+  <data name="TYJS_000125" xml:space="preserve">
+    <value>자세한 내용을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000124" xml:space="preserve">
+    <value>매일 지불</value>
+  </data>
+  <data name="TYJS_000127" xml:space="preserve">
+    <value>지원</value>
+  </data>
+  <data name="TYJS_000121" xml:space="preserve">
+    <value>테마</value>
+  </data>
+  <data name="TYJS_000120" xml:space="preserve">
+    <value>브로커 입력</value>
+  </data>
+  <data name="TYJS_000122" xml:space="preserve">
+    <value>테마를 입력</value>
+  </data>
+  <data name="TYJS_000123" xml:space="preserve">
+    <value>상세 정보</value>
+  </data>
+  <data name="TYJS_000119" xml:space="preserve">
+    <value>딜러</value>
+  </data>
+  <data name="TYJS_000118" xml:space="preserve">
+    <value>티켓 가격을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000116" xml:space="preserve">
+    <value>예상 출석 입력</value>
+  </data>
+  <data name="TYJS_000117" xml:space="preserve">
+    <value>티켓 가격</value>
+  </data>
+  <data name="TYJS_000115" xml:space="preserve">
+    <value>예상 출석</value>
+  </data>
+  <data name="TYJS_000114" xml:space="preserve">
+    <value>請輸入結束時間</value>
+  </data>
+  <data name="TYJS_000112" xml:space="preserve">
+    <value>시작 시간을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000113" xml:space="preserve">
+    <value>마감 시간</value>
+  </data>
+  <data name="TYJS_000111" xml:space="preserve">
+    <value>시작 시간</value>
+  </data>
+  <data name="TYJS_000110" xml:space="preserve">
+    <value>개최 도시를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000107" xml:space="preserve">
+    <value>최대 10 장의 사진 만 업로드 할 수 있습니다</value>
+  </data>
+  <data name="TYJS_000108" xml:space="preserve">
+    <value>후원자의 이름을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000109" xml:space="preserve">
+    <value>개최 도시</value>
+  </data>
+  <data name="TYJS_000104" xml:space="preserve">
+    <value>발표 성공</value>
+  </data>
+  <data name="TYJS_000106" xml:space="preserve">
+    <value>오류</value>
+  </data>
+  <data name="TYJS_000105" xml:space="preserve">
+    <value>게시 실패</value>
+  </data>
+  <data name="TYJS_000102" xml:space="preserve">
+    <value>제목을 입력하세요.</value>
+  </data>
+  <data name="TYJS_000103" xml:space="preserve">
+    <value>좋아요 표시함.</value>
+  </data>
+  <data name="TYJS_000100" xml:space="preserve">
+    <value>댓글 실패</value>
+  </data>
+  <data name="TYJS_000095" xml:space="preserve">
+    <value>유지비</value>
+  </data>
+  <data name="TYJS_000101" xml:space="preserve">
+    <value>방문자는 게시물을 올릴 수 없습니다.</value>
+  </data>
+  <data name="TYJS_000098" xml:space="preserve">
+    <value>판매 가격 (USD)</value>
+  </data>
+  <data name="TYJS_000096" xml:space="preserve">
+    <value>유지 보수 비용을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000099" xml:space="preserve">
+    <value>판매가를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000094" xml:space="preserve">
+    <value>신청 가격을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000093" xml:space="preserve">
+    <value>신청 가격</value>
+  </data>
+  <data name="TYJS_000097" xml:space="preserve">
+    <value>등록 시간</value>
+  </data>
+  <data name="TYJS_000089" xml:space="preserve">
+    <value>제공할 필요 없음</value>
+  </data>
+  <data name="TYJS_000090" xml:space="preserve">
+    <value>규제 지역을 입력</value>
+  </data>
+  <data name="TYJS_000092" xml:space="preserve">
+    <value>라이센스 유형을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000088" xml:space="preserve">
+    <value>제공 필요</value>
+  </data>
+  <data name="TYJS_000087" xml:space="preserve">
+    <value>본체 요구 사항</value>
+  </data>
+  <data name="TYJS_000091" xml:space="preserve">
+    <value>레귤레이터를 입력</value>
+  </data>
+  <data name="TYJS_000084" xml:space="preserve">
+    <value>취급 수수료 （USD）</value>
+  </data>
+  <data name="TYJS_000083" xml:space="preserve">
+    <value>채널 유형을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000086" xml:space="preserve">
+    <value>신청 기간을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000082" xml:space="preserve">
+    <value>채널 유형</value>
+  </data>
+  <data name="TYJS_000081" xml:space="preserve">
+    <value>발표하다</value>
+  </data>
+  <data name="TYJS_000085" xml:space="preserve">
+    <value>취급 수수료 입력</value>
+  </data>
+  <data name="TYJS_000080" xml:space="preserve">
+    <value>QQ 번호를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000076" xml:space="preserve">
+    <value>이메일 주소를 입력하십시오.</value>
+  </data>
+  <data name="TYJS_000079" xml:space="preserve">
+    <value>QQ</value>
+  </data>
+  <data name="TYJS_000078" xml:space="preserve">
+    <value>위챗 번호 입력</value>
+  </data>
+  <data name="TYJS_000074" xml:space="preserve">
+    <value>Please enter Twitter</value>
+  </data>
+  <data name="TYJS_000075" xml:space="preserve">
+    <value>이메일</value>
+  </data>
+  <data name="TYJS_000073" xml:space="preserve">
+    <value>트위터</value>
+  </data>
+  <data name="TYJS_000077" xml:space="preserve">
+    <value>WeChat</value>
+  </data>
+  <data name="TYJS_000070" xml:space="preserve">
+    <value>Instragram을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000072" xml:space="preserve">
+    <value>Please enter Facebook</value>
+  </data>
+  <data name="TYJS_000069" xml:space="preserve">
+    <value>인스 타 그램</value>
+  </data>
+  <data name="TYJS_000071" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="TYJS_000065" xml:space="preserve">
+    <value>제품을 자세히 설명하십시오</value>
+  </data>
+  <data name="TYJS_000068" xml:space="preserve">
+    <value>휴대폰 번호를 입력하십시오.</value>
+  </data>
+  <data name="TYJS_000067" xml:space="preserve">
+    <value>휴대폰 번호</value>
+  </data>
+  <data name="TYJS_000066" xml:space="preserve">
+    <value>연락처</value>
+  </data>
+  <data name="TYJS_000063" xml:space="preserve">
+    <value>공식 웹 사이트를 입력하십시오</value>
+  </data>
+  <data name="TYJS_000064" xml:space="preserve">
+    <value>회사를 자세히 설명하십시오</value>
+  </data>
+  <data name="TYJS_000059" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="TYJS_000062" xml:space="preserve">
+    <value>공식 사이트</value>
+  </data>
+  <data name="TYJS_000061" xml:space="preserve">
+    <value>프로젝트 가격을 입력하십시오</value>
+  </data>
+  <data name="TYJS_000057" xml:space="preserve">
+    <value>CRM 구축</value>
+  </data>
+  <data name="TYJS_000054" xml:space="preserve">
+    <value>10 장 이하, 5M 이내의 JPG, PNG 허용됩니다.</value>
+  </data>
+  <data name="TYJS_000060" xml:space="preserve">
+    <value>프로젝트 제안</value>
+  </data>
+  <data name="TYJS_000058" xml:space="preserve">
+    <value>공식 건물</value>
+  </data>
+  <data name="TYJS_000056" xml:space="preserve">
+    <value>MT4 빌딩</value>
+  </data>
+  <data name="TYJS_000051" xml:space="preserve">
+    <value>표제</value>
+  </data>
+  <data name="TYJS_000053" xml:space="preserve">
+    <value>이미지 업로드</value>
+  </data>
+  <data name="TYJS_000052" xml:space="preserve">
+    <value>제목을 입력해 주세요</value>
+  </data>
+  <data name="TYJS_000055" xml:space="preserve">
+    <value>플랫폼 유형</value>
+  </data>
+  <data name="TYJS_000050" xml:space="preserve">
+    <value>카테고리를 선택하십시오</value>
+  </data>
+  <data name="TYJS_000045" xml:space="preserve">
+    <value>댓글을 달려면 가입 / 로그인</value>
+  </data>
+  <data name="TYJS_000047" xml:space="preserve">
+    <value>{0} 의견</value>
+  </data>
+  <data name="TYJS_000048" xml:space="preserve">
+    <value>좋아요</value>
+  </data>
+  <data name="TYJS_000046" xml:space="preserve">
+    <value>제출</value>
+  </data>
+  <data name="TYJS_000049" xml:space="preserve">
+    <value>답글보기 {0}</value>
+  </data>
+  <data name="TYJS_000043" xml:space="preserve">
+    <value>Q &amp; A</value>
+  </data>
+  <data name="TYJS_000044" xml:space="preserve">
+    <value>질문을 작성하십시오 ...</value>
+  </data>
+  <data name="TYJS_000041" xml:space="preserve">
+    <value>마켓 앨범</value>
+  </data>
+  <data name="TYJS_000042" xml:space="preserve">
+    <value>좋아요</value>
+  </data>
+  <data name="TYJS_000039" xml:space="preserve">
+    <value>제품 세부 정보</value>
+  </data>
+  <data name="TYJS_000040" xml:space="preserve">
+    <value>회사 요약</value>
+  </data>
+  <data name="TYJS_000037" xml:space="preserve">
+    <value>호스트 이름</value>
+  </data>
+  <data name="TYJS_000032" xml:space="preserve">
+    <value>적용 빈도</value>
+  </data>
+  <data name="TYJS_000035" xml:space="preserve">
+    <value>응용 프로그램 가격 (USD)</value>
+  </data>
+  <data name="TYJS_000038" xml:space="preserve">
+    <value>클릭해서 확인하기</value>
+  </data>
+  <data name="TYJS_000036" xml:space="preserve">
+    <value>유지 관리 비용 (USD)</value>
+  </data>
+  <data name="TYJS_000033" xml:space="preserve">
+    <value>허가증 유형</value>
+  </data>
+  <data name="TYJS_000031" xml:space="preserve">
+    <value>감독기관</value>
+  </data>
+  <data name="TYJS_000034" xml:space="preserve">
+    <value>규제 지역</value>
+  </data>
+  <data name="TYJS_000028" xml:space="preserve">
+    <value>Release time</value>
+  </data>
+  <data name="TYJS_000029" xml:space="preserve">
+    <value>전화로 보내기</value>
+  </data>
+  <data name="TYJS_000030" xml:space="preserve">
+    <value>신고</value>
+  </data>
+  <data name="TYJS_000024" xml:space="preserve">
+    <value>제출</value>
+  </data>
+  <data name="TYJS_000026" xml:space="preserve">
+    <value>댓글</value>
+  </data>
+  <data name="TYJS_000027" xml:space="preserve">
+    <value>적게 표시</value>
+  </data>
+  <data name="TYJS_000025" xml:space="preserve">
+    <value>답장 쓰기</value>
+  </data>
+  <data name="TYJS_000023" xml:space="preserve">
+    <value>포럼 카테고리</value>
+  </data>
+  <data name="TYJS_000022" xml:space="preserve">
+    <value>인기있는 콘텐츠</value>
+  </data>
+  <data name="TYJS_000019" xml:space="preserve">
+    <value>업계에서</value>
+  </data>
+  <data name="TYJS_000020" xml:space="preserve">
+    <value>기술 지표</value>
+  </data>
+  <data name="TYJS_000018" xml:space="preserve">
+    <value>시장</value>
+  </data>
+  <data name="TYJS_000013" xml:space="preserve">
+    <value>신병 모집</value>
+  </data>
+  <data name="TYJS_000021" xml:space="preserve">
+    <value>인덱스</value>
+  </data>
+  <data name="TYJS_000017" xml:space="preserve">
+    <value>시장 분석</value>
+  </data>
+  <data name="TYJS_000015" xml:space="preserve">
+    <value>새로운 토론 공유</value>
+  </data>
+  <data name="TYJS_000016" xml:space="preserve">
+    <value>EA</value>
+  </data>
+  <data name="TYJS_000010" xml:space="preserve">
+    <value>사업 투자 유치</value>
+  </data>
+  <data name="TYJS_000012" xml:space="preserve">
+    <value>팀 모집</value>
+  </data>
+  <data name="TYJS_000006" xml:space="preserve">
+    <value>결제 채널</value>
+  </data>
+  <data name="TYJS_000014" xml:space="preserve">
+    <value>개인 모집</value>
+  </data>
+  <data name="TYJS_000011" xml:space="preserve">
+    <value>대리상</value>
+  </data>
+  <data name="TYJS_000009" xml:space="preserve">
+    <value>전시회</value>
+  </data>
+  <data name="TYJS_000008" xml:space="preserve">
+    <value>라이센스 양도</value>
+  </data>
+  <data name="TYJS_000004" xml:space="preserve">
+    <value>스캔하여 확인</value>
+  </data>
+  <data name="TYJS_000007" xml:space="preserve">
+    <value>라이센스 기관</value>
+  </data>
+  <data name="TYJS_000002" xml:space="preserve">
+    <value>커뮤니티 게시판</value>
+  </data>
+  <data name="TYJS_000001" xml:space="preserve">
+    <value>발표하다</value>
+  </data>
+  <data name="TYJS_000005" xml:space="preserve">
+    <value>플랫폼</value>
+  </data>
+  <data name="TYJS_000301" xml:space="preserve">
+    <value>{0}분 전</value>
+  </data>
+  <data name="TYJS_000003" xml:space="preserve">
+    <value>정보 게시 결과</value>
+  </data>
+  <data name="TYJS_000300" xml:space="preserve">
+    <value>{0}일 전</value>
+  </data>
+  <data name="TYJS_000302" xml:space="preserve">
+    <value>{0}시간 전</value>
+  </data>
+  <data name="TYJS_000305" xml:space="preserve">
+    <value>어제{0}</value>
+  </data>
+  <data name="TYJS_000304" xml:space="preserve">
+    <value>어제</value>
+  </data>
+</root>

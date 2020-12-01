@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TYJS_000303" xml:space="preserve">
+    <value>Baru sahaja</value>
+  </data>
+  <data name="TYJS_000295" xml:space="preserve">
+    <value>Website building</value>
+  </data>
+  <data name="TYJS_000293" xml:space="preserve">
+    <value>MT4 building</value>
+  </data>
+  <data name="TYJS_000289" xml:space="preserve">
+    <value>Join in</value>
+  </data>
+  <data name="TYJS_000291" xml:space="preserve">
+    <value>Not required</value>
+  </data>
+  <data name="TYJS_000296" xml:space="preserve">
+    <value>Global Forex Broker Regulatory Inquiry APP</value>
+  </data>
+  <data name="TYJS_000294" xml:space="preserve">
+    <value>CRM building</value>
+  </data>
+  <data name="TYJS_000285" xml:space="preserve">
+    <value>Rebate cycle</value>
+  </data>
+  <data name="TYJS_000288" xml:space="preserve">
+    <value>Interactive reviews</value>
+  </data>
+  <data name="TYJS_000287" xml:space="preserve">
+    <value>Successfully cancelled</value>
+  </data>
+  <data name="TYJS_000284" xml:space="preserve">
+    <value>Select a time</value>
+  </data>
+  <data name="TYJS_000283" xml:space="preserve">
+    <value>Please enter an official address</value>
+  </data>
+  <data name="TYJS_000286" xml:space="preserve">
+    <value>Region</value>
+  </data>
+  <data name="TYJS_000282" xml:space="preserve">
+    <value>Sebab Penolakan</value>
+  </data>
+  <data name="TYJS_000280" xml:space="preserve">
+    <value>Official Building</value>
+  </data>
+  <data name="TYJS_000279" xml:space="preserve">
+    <value>CRM Building</value>
+  </data>
+  <data name="TYJS_000276" xml:space="preserve">
+    <value>By position-closing</value>
+  </data>
+  <data name="TYJS_000281" xml:space="preserve">
+    <value>Lain-lain</value>
+  </data>
+  <data name="TYJS_000275" xml:space="preserve">
+    <value>Monthly paid</value>
+  </data>
+  <data name="TYJS_000278" xml:space="preserve">
+    <value>MT4 Building</value>
+  </data>
+  <data name="TYJS_000273" xml:space="preserve">
+    <value>Daily paid</value>
+  </data>
+  <data name="TYJS_000271" xml:space="preserve">
+    <value>Supported</value>
+  </data>
+  <data name="TYJS_000277" xml:space="preserve">
+    <value>Negotiable</value>
+  </data>
+  <data name="TYJS_000272" xml:space="preserve">
+    <value>Not supported</value>
+  </data>
+  <data name="TYJS_000270" xml:space="preserve">
+    <value>License agency</value>
+  </data>
+  <data name="TYJS_000274" xml:space="preserve">
+    <value>Weekly paid</value>
+  </data>
+  <data name="TYJS_000269" xml:space="preserve">
+    <value>License transfer</value>
+  </data>
+  <data name="TYJS_000217" xml:space="preserve">
+    <value>Please enter your reply</value>
+  </data>
+  <data name="TYJS_000215" xml:space="preserve">
+    <value>Seek new market cooperation</value>
+  </data>
+  <data name="TYJS_000213" xml:space="preserve">
+    <value>System building</value>
+  </data>
+  <data name="TYJS_000212" xml:space="preserve">
+    <value>Format grafik tidak sah</value>
+  </data>
+  <data name="TYJS_000214" xml:space="preserve">
+    <value>Content details</value>
+  </data>
+  <data name="TYJS_000210" xml:space="preserve">
+    <value>Skor WikiFX</value>
+  </data>
+  <data name="TYJS_000216" xml:space="preserve">
+    <value>Carian</value>
+  </data>
+  <data name="TYJS_000208" xml:space="preserve">
+    <value>Laman utama</value>
+  </data>
+  <data name="TYJS_000211" xml:space="preserve">
+    <value>Sila log masuk terlebih dahulu</value>
+  </data>
+  <data name="TYJS_000209" xml:space="preserve">
+    <value>Tuduhan tidak boleh kosong</value>
+  </data>
+  <data name="TYJS_000204" xml:space="preserve">
+    <value>To be edited:</value>
+  </data>
+  <data name="TYJS_000205" xml:space="preserve">
+    <value>No more than 9 pics,  and within 5M in size, JPG, PNG are allowed</value>
+  </data>
+  <data name="TYJS_000207" xml:space="preserve">
+    <value>Tiada data</value>
+  </data>
+  <data name="TYJS_000201" xml:space="preserve">
+    <value>Berhenti</value>
+  </data>
+  <data name="TYJS_000199" xml:space="preserve">
+    <value>Required</value>
+  </data>
+  <data name="TYJS_000206" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="TYJS_000198" xml:space="preserve">
+    <value>Teruskan menulis</value>
+  </data>
+  <data name="TYJS_000197" xml:space="preserve">
+    <value>Do you want to discard your text?</value>
+  </data>
+  <data name="TYJS_000195" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="TYJS_000200" xml:space="preserve">
+    <value>Kandungan</value>
+  </data>
+  <data name="TYJS_000192" xml:space="preserve">
+    <value>Like</value>
+  </data>
+  <data name="TYJS_000194" xml:space="preserve">
+    <value>Incorrect format</value>
+  </data>
+  <data name="TYJS_000196" xml:space="preserve">
+    <value>Post the edited content?</value>
+  </data>
+  <data name="TYJS_000191" xml:space="preserve">
+    <value>Dec.</value>
+  </data>
+  <data name="TYJS_000189" xml:space="preserve">
+    <value>Oct.</value>
+  </data>
+  <data name="TYJS_000188" xml:space="preserve">
+    <value>Sept.</value>
+  </data>
+  <data name="TYJS_000187" xml:space="preserve">
+    <value>Aug.</value>
+  </data>
+  <data name="TYJS_000193" xml:space="preserve">
+    <value>Lokasi anda:</value>
+  </data>
+  <data name="TYJS_000186" xml:space="preserve">
+    <value>Jul.</value>
+  </data>
+  <data name="TYJS_000190" xml:space="preserve">
+    <value>Nov.</value>
+  </data>
+  <data name="TYJS_000183" xml:space="preserve">
+    <value>Apr.</value>
+  </data>
+  <data name="TYJS_000185" xml:space="preserve">
+    <value>Jun.</value>
+  </data>
+  <data name="TYJS_000182" xml:space="preserve">
+    <value>Mar.</value>
+  </data>
+  <data name="TYJS_000184" xml:space="preserve">
+    <value>May.</value>
+  </data>
+  <data name="TYJS_000181" xml:space="preserve">
+    <value>Feb.</value>
+  </data>
+  <data name="TYJS_000177" xml:space="preserve">
+    <value>Fri.</value>
+  </data>
+  <data name="TYJS_000179" xml:space="preserve">
+    <value>Sun.</value>
+  </data>
+  <data name="TYJS_000180" xml:space="preserve">
+    <value>Jan.</value>
+  </data>
+  <data name="TYJS_000176" xml:space="preserve">
+    <value>Thur.</value>
+  </data>
+  <data name="TYJS_000178" xml:space="preserve">
+    <value>Sat.</value>
+  </data>
+  <data name="TYJS_000175" xml:space="preserve">
+    <value>Wed.</value>
+  </data>
+  <data name="TYJS_000173" xml:space="preserve">
+    <value>Mon.</value>
+  </data>
+  <data name="TYJS_000172" xml:space="preserve">
+    <value>Edit information</value>
+  </data>
+  <data name="TYJS_000170" xml:space="preserve">
+    <value>Sticky on top</value>
+  </data>
+  <data name="TYJS_000167" xml:space="preserve">
+    <value>Failed</value>
+  </data>
+  <data name="TYJS_000174" xml:space="preserve">
+    <value>Tues.</value>
+  </data>
+  <data name="TYJS_000165" xml:space="preserve">
+    <value>Selesai</value>
+  </data>
+  <data name="TYJS_000171" xml:space="preserve">
+    <value>Maklumat peniaga</value>
+  </data>
+  <data name="TYJS_000169" xml:space="preserve">
+    <value>Host time</value>
+  </data>
+  <data name="TYJS_000166" xml:space="preserve">
+    <value>Succeeded</value>
+  </data>
+  <data name="TYJS_000161" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="TYJS_000164" xml:space="preserve">
+    <value>Lihat lebih lanjut</value>
+  </data>
+  <data name="TYJS_000156" xml:space="preserve">
+    <value>Komoditi</value>
+  </data>
+  <data name="TYJS_000160" xml:space="preserve">
+    <value>Check all {0} replies</value>
+  </data>
+  <data name="TYJS_000162" xml:space="preserve">
+    <value>There is no comment yet. Make the first one.</value>
+  </data>
+  <data name="TYJS_000158" xml:space="preserve">
+    <value>Saham</value>
+  </data>
+  <data name="TYJS_000155" xml:space="preserve">
+    <value>Forex</value>
+  </data>
+  <data name="TYJS_000154" xml:space="preserve">
+    <value>Related product</value>
+  </data>
+  <data name="TYJS_000150" xml:space="preserve">
+    <value>Company welfare</value>
+  </data>
+  <data name="TYJS_000157" xml:space="preserve">
+    <value>Minyak mentah</value>
+  </data>
+  <data name="TYJS_000148" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="TYJS_000153" xml:space="preserve">
+    <value>Enter a job description</value>
+  </data>
+  <data name="TYJS_000151" xml:space="preserve">
+    <value>Enter the company welfare</value>
+  </data>
+  <data name="TYJS_000152" xml:space="preserve">
+    <value>Job description</value>
+  </data>
+  <data name="TYJS_000149" xml:space="preserve">
+    <value>Please enter the detailed address</value>
+  </data>
+  <data name="TYJS_000147" xml:space="preserve">
+    <value>Enter the relevant requirements</value>
+  </data>
+  <data name="TYJS_000145" xml:space="preserve">
+    <value>Please enter the position</value>
+  </data>
+  <data name="TYJS_000144" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="TYJS_000142" xml:space="preserve">
+    <value>Business requirements</value>
+  </data>
+  <data name="TYJS_000146" xml:space="preserve">
+    <value>Related requirements</value>
+  </data>
+  <data name="TYJS_000138" xml:space="preserve">
+    <value>Salary level</value>
+  </data>
+  <data name="TYJS_000143" xml:space="preserve">
+    <value>Enter business requirements</value>
+  </data>
+  <data name="TYJS_000137" xml:space="preserve">
+    <value>Please enter the team size.</value>
+  </data>
+  <data name="TYJS_000141" xml:space="preserve">
+    <value>Enter a country</value>
+  </data>
+  <data name="TYJS_000140" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="TYJS_000139" xml:space="preserve">
+    <value>Enter the salary</value>
+  </data>
+  <data name="TYJS_000135" xml:space="preserve">
+    <value>Enter more details</value>
+  </data>
+  <data name="TYJS_000133" xml:space="preserve">
+    <value>Monthly paid</value>
+  </data>
+  <data name="TYJS_000136" xml:space="preserve">
+    <value>Team size</value>
+  </data>
+  <data name="TYJS_000134" xml:space="preserve">
+    <value>By position-closing</value>
+  </data>
+  <data name="TYJS_000131" xml:space="preserve">
+    <value>Settlement</value>
+  </data>
+  <data name="TYJS_000132" xml:space="preserve">
+    <value>Weekly paid</value>
+  </data>
+  <data name="TYJS_000129" xml:space="preserve">
+    <value>Forex commission</value>
+  </data>
+  <data name="TYJS_000128" xml:space="preserve">
+    <value>Not supported</value>
+  </data>
+  <data name="TYJS_000130" xml:space="preserve">
+    <value>Rebate charge</value>
+  </data>
+  <data name="TYJS_000126" xml:space="preserve">
+    <value>EA trading</value>
+  </data>
+  <data name="TYJS_000125" xml:space="preserve">
+    <value>Enter more details</value>
+  </data>
+  <data name="TYJS_000127" xml:space="preserve">
+    <value>Supported</value>
+  </data>
+  <data name="TYJS_000124" xml:space="preserve">
+    <value>Daily paid</value>
+  </data>
+  <data name="TYJS_000121" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="TYJS_000120" xml:space="preserve">
+    <value>Enter the broker</value>
+  </data>
+  <data name="TYJS_000122" xml:space="preserve">
+    <value>Enter the theme</value>
+  </data>
+  <data name="TYJS_000123" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="TYJS_000119" xml:space="preserve">
+    <value>Peniaga</value>
+  </data>
+  <data name="TYJS_000118" xml:space="preserve">
+    <value>Enter the ticket price</value>
+  </data>
+  <data name="TYJS_000116" xml:space="preserve">
+    <value>Enter the estimated attendance</value>
+  </data>
+  <data name="TYJS_000117" xml:space="preserve">
+    <value>Ticket price</value>
+  </data>
+  <data name="TYJS_000115" xml:space="preserve">
+    <value>Estimated attendance</value>
+  </data>
+  <data name="TYJS_000114" xml:space="preserve">
+    <value>Enter the closing time</value>
+  </data>
+  <data name="TYJS_000112" xml:space="preserve">
+    <value>Enter the starting time</value>
+  </data>
+  <data name="TYJS_000113" xml:space="preserve">
+    <value>Closing time</value>
+  </data>
+  <data name="TYJS_000111" xml:space="preserve">
+    <value>Starting time</value>
+  </data>
+  <data name="TYJS_000110" xml:space="preserve">
+    <value>Enter the host city</value>
+  </data>
+  <data name="TYJS_000107" xml:space="preserve">
+    <value>You can only upload up to 10 pictures</value>
+  </data>
+  <data name="TYJS_000108" xml:space="preserve">
+    <value>Enter the name of the sponsor</value>
+  </data>
+  <data name="TYJS_000109" xml:space="preserve">
+    <value>Host city</value>
+  </data>
+  <data name="TYJS_000104" xml:space="preserve">
+    <value>Berjaya diterbitkan</value>
+  </data>
+  <data name="TYJS_000106" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="TYJS_000105" xml:space="preserve">
+    <value>Penerbitan gagal</value>
+  </data>
+  <data name="TYJS_000102" xml:space="preserve">
+    <value>Tajuk diperlukan</value>
+  </data>
+  <data name="TYJS_000103" xml:space="preserve">
+    <value>Suka</value>
+  </data>
+  <data name="TYJS_000100" xml:space="preserve">
+    <value>Failed to comment</value>
+  </data>
+  <data name="TYJS_000095" xml:space="preserve">
+    <value>Maintenance costs</value>
+  </data>
+  <data name="TYJS_000101" xml:space="preserve">
+    <value>Pelawat tidak dibenarkan menghantar</value>
+  </data>
+  <data name="TYJS_000098" xml:space="preserve">
+    <value>Selling price (USD)</value>
+  </data>
+  <data name="TYJS_000096" xml:space="preserve">
+    <value>Enter the maintenance cost</value>
+  </data>
+  <data name="TYJS_000099" xml:space="preserve">
+    <value>Enter the selling price</value>
+  </data>
+  <data name="TYJS_000094" xml:space="preserve">
+    <value>Enter the application price</value>
+  </data>
+  <data name="TYJS_000093" xml:space="preserve">
+    <value>Application price</value>
+  </data>
+  <data name="TYJS_000097" xml:space="preserve">
+    <value>Registration time</value>
+  </data>
+  <data name="TYJS_000089" xml:space="preserve">
+    <value>Not required</value>
+  </data>
+  <data name="TYJS_000090" xml:space="preserve">
+    <value>Enter the regulatory region</value>
+  </data>
+  <data name="TYJS_000092" xml:space="preserve">
+    <value>Enter the license type</value>
+  </data>
+  <data name="TYJS_000088" xml:space="preserve">
+    <value>Required</value>
+  </data>
+  <data name="TYJS_000087" xml:space="preserve">
+    <value>Main body requirements</value>
+  </data>
+  <data name="TYJS_000091" xml:space="preserve">
+    <value>Enter the regulator</value>
+  </data>
+  <data name="TYJS_000084" xml:space="preserve">
+    <value>Handling fee（USD）</value>
+  </data>
+  <data name="TYJS_000083" xml:space="preserve">
+    <value>Enter the channel type</value>
+  </data>
+  <data name="TYJS_000086" xml:space="preserve">
+    <value>Enter the application period</value>
+  </data>
+  <data name="TYJS_000082" xml:space="preserve">
+    <value>Channel type</value>
+  </data>
+  <data name="TYJS_000081" xml:space="preserve">
+    <value>Umumkan</value>
+  </data>
+  <data name="TYJS_000085" xml:space="preserve">
+    <value>Enter the rate of handling fee</value>
+  </data>
+  <data name="TYJS_000080" xml:space="preserve">
+    <value>Enter QQ number</value>
+  </data>
+  <data name="TYJS_000076" xml:space="preserve">
+    <value>E-mel</value>
+  </data>
+  <data name="TYJS_000079" xml:space="preserve">
+    <value>QQ</value>
+  </data>
+  <data name="TYJS_000078" xml:space="preserve">
+    <value>Enter WeChat number</value>
+  </data>
+  <data name="TYJS_000074" xml:space="preserve">
+    <value>Please enter Twitter</value>
+  </data>
+  <data name="TYJS_000075" xml:space="preserve">
+    <value>E-mel</value>
+  </data>
+  <data name="TYJS_000073" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="TYJS_000077" xml:space="preserve">
+    <value>WeChat</value>
+  </data>
+  <data name="TYJS_000070" xml:space="preserve">
+    <value>Enter your Instragram</value>
+  </data>
+  <data name="TYJS_000072" xml:space="preserve">
+    <value>Please enter Facebook</value>
+  </data>
+  <data name="TYJS_000069" xml:space="preserve">
+    <value>Instagram</value>
+  </data>
+  <data name="TYJS_000071" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="TYJS_000065" xml:space="preserve">
+    <value>Describe the product in detail</value>
+  </data>
+  <data name="TYJS_000067" xml:space="preserve">
+    <value>Nombor telefon bimbit</value>
+  </data>
+  <data name="TYJS_000068" xml:space="preserve">
+    <value>Nombor telefon bimbit</value>
+  </data>
+  <data name="TYJS_000066" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="TYJS_000063" xml:space="preserve">
+    <value>Enter the official website</value>
+  </data>
+  <data name="TYJS_000064" xml:space="preserve">
+    <value>Describe company in detail</value>
+  </data>
+  <data name="TYJS_000059" xml:space="preserve">
+    <value>Lain-lain</value>
+  </data>
+  <data name="TYJS_000062" xml:space="preserve">
+    <value>Laman web rasmi</value>
+  </data>
+  <data name="TYJS_000061" xml:space="preserve">
+    <value>Enter a project price</value>
+  </data>
+  <data name="TYJS_000057" xml:space="preserve">
+    <value>CRM Building</value>
+  </data>
+  <data name="TYJS_000054" xml:space="preserve">
+    <value>No more than 10 pics,  and within 5M in size, JPG, PNG are allowed</value>
+  </data>
+  <data name="TYJS_000060" xml:space="preserve">
+    <value>Project offer</value>
+  </data>
+  <data name="TYJS_000058" xml:space="preserve">
+    <value>Official Building</value>
+  </data>
+  <data name="TYJS_000056" xml:space="preserve">
+    <value>MT4 Building</value>
+  </data>
+  <data name="TYJS_000051" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="TYJS_000053" xml:space="preserve">
+    <value>Muat naik imej</value>
+  </data>
+  <data name="TYJS_000052" xml:space="preserve">
+    <value>Sila masukkan tajuk</value>
+  </data>
+  <data name="TYJS_000055" xml:space="preserve">
+    <value>Platform type</value>
+  </data>
+  <data name="TYJS_000050" xml:space="preserve">
+    <value>Select a category</value>
+  </data>
+  <data name="TYJS_000045" xml:space="preserve">
+    <value>Sign up/in to comment</value>
+  </data>
+  <data name="TYJS_000047" xml:space="preserve">
+    <value>{0} Comments</value>
+  </data>
+  <data name="TYJS_000048" xml:space="preserve">
+    <value>Suka</value>
+  </data>
+  <data name="TYJS_000046" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="TYJS_000049" xml:space="preserve">
+    <value>View {0} replies</value>
+  </data>
+  <data name="TYJS_000043" xml:space="preserve">
+    <value>Q&amp;A</value>
+  </data>
+  <data name="TYJS_000044" xml:space="preserve">
+    <value>Write your question...</value>
+  </data>
+  <data name="TYJS_000041" xml:space="preserve">
+    <value>Market Album</value>
+  </data>
+  <data name="TYJS_000042" xml:space="preserve">
+    <value>Like</value>
+  </data>
+  <data name="TYJS_000039" xml:space="preserve">
+    <value>Product details</value>
+  </data>
+  <data name="TYJS_000040" xml:space="preserve">
+    <value>Company summary</value>
+  </data>
+  <data name="TYJS_000037" xml:space="preserve">
+    <value>Host name</value>
+  </data>
+  <data name="TYJS_000032" xml:space="preserve">
+    <value>Application frequency</value>
+  </data>
+  <data name="TYJS_000035" xml:space="preserve">
+    <value>Application price (USD)</value>
+  </data>
+  <data name="TYJS_000038" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="TYJS_000036" xml:space="preserve">
+    <value>Maintenance cost (USD)</value>
+  </data>
+  <data name="TYJS_000033" xml:space="preserve">
+    <value>Jenis Lesen</value>
+  </data>
+  <data name="TYJS_000031" xml:space="preserve">
+    <value>Agensi pengawalseliaan</value>
+  </data>
+  <data name="TYJS_000034" xml:space="preserve">
+    <value>Regulatory area</value>
+  </data>
+  <data name="TYJS_000028" xml:space="preserve">
+    <value>Release time</value>
+  </data>
+  <data name="TYJS_000029" xml:space="preserve">
+    <value>Send to phone</value>
+  </data>
+  <data name="TYJS_000030" xml:space="preserve">
+    <value>Complian</value>
+  </data>
+  <data name="TYJS_000024" xml:space="preserve">
+    <value>Hantar</value>
+  </data>
+  <data name="TYJS_000026" xml:space="preserve">
+    <value>Balas</value>
+  </data>
+  <data name="TYJS_000027" xml:space="preserve">
+    <value>Show less</value>
+  </data>
+  <data name="TYJS_000025" xml:space="preserve">
+    <value>Write your reply</value>
+  </data>
+  <data name="TYJS_000023" xml:space="preserve">
+    <value>Forum category</value>
+  </data>
+  <data name="TYJS_000022" xml:space="preserve">
+    <value>Hot content</value>
+  </data>
+  <data name="TYJS_000019" xml:space="preserve">
+    <value>Industry</value>
+  </data>
+  <data name="TYJS_000020" xml:space="preserve">
+    <value>Technical index</value>
+  </data>
+  <data name="TYJS_000018" xml:space="preserve">
+    <value>Market</value>
+  </data>
+  <data name="TYJS_000013" xml:space="preserve">
+    <value>Recruitment</value>
+  </data>
+  <data name="TYJS_000021" xml:space="preserve">
+    <value>Index</value>
+  </data>
+  <data name="TYJS_000017" xml:space="preserve">
+    <value>Market analysis</value>
+  </data>
+  <data name="TYJS_000015" xml:space="preserve">
+    <value>Share new discussions</value>
+  </data>
+  <data name="TYJS_000016" xml:space="preserve">
+    <value>EA</value>
+  </data>
+  <data name="TYJS_000010" xml:space="preserve">
+    <value>Attract investment in business</value>
+  </data>
+  <data name="TYJS_000012" xml:space="preserve">
+    <value>Team recruiting</value>
+  </data>
+  <data name="TYJS_000006" xml:space="preserve">
+    <value>Payment channel</value>
+  </data>
+  <data name="TYJS_000014" xml:space="preserve">
+    <value>Individual recruiting</value>
+  </data>
+  <data name="TYJS_000011" xml:space="preserve">
+    <value>Agen</value>
+  </data>
+  <data name="TYJS_000009" xml:space="preserve">
+    <value>Exhibition</value>
+  </data>
+  <data name="TYJS_000008" xml:space="preserve">
+    <value>License transfer</value>
+  </data>
+  <data name="TYJS_000004" xml:space="preserve">
+    <value>Scan to view</value>
+  </data>
+  <data name="TYJS_000007" xml:space="preserve">
+    <value>License agency</value>
+  </data>
+  <data name="TYJS_000002" xml:space="preserve">
+    <value>Forum</value>
+  </data>
+  <data name="TYJS_000001" xml:space="preserve">
+    <value>Umumkan</value>
+  </data>
+  <data name="TYJS_000005" xml:space="preserve">
+    <value>Platform</value>
+  </data>
+  <data name="TYJS_000301" xml:space="preserve">
+    <value>{0} minit yang lalu</value>
+  </data>
+  <data name="TYJS_000003" xml:space="preserve">
+    <value>Post information results</value>
+  </data>
+  <data name="TYJS_000300" xml:space="preserve">
+    <value>{0} hari lalu</value>
+  </data>
+  <data name="TYJS_000302" xml:space="preserve">
+    <value>{0} jam yang lalu</value>
+  </data>
+  <data name="TYJS_000305" xml:space="preserve">
+    <value>yesterday {0}</value>
+  </data>
+  <data name="TYJS_000304" xml:space="preserve">
+    <value>yesterday</value>
+  </data>
+</root>

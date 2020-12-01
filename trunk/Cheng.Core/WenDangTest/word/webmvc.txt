@@ -1,0 +1,2 @@
+﻿1. 页面的配置，静态文件可以使用属性 asp-append-version
+<link href="#" rel="stylesheet" asp-append-version="true" />

@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TYJS_000303" xml:space="preserve">
+    <value>刚刚</value>
+  </data>
+  <data name="TYJS_000297" xml:space="preserve">
+    <value>交易商集市新闻_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000299" xml:space="preserve">
+    <value>天眼集市,交易商集市,外汇天眼,交易商新闻,交易商平台,平台搭建,IB招商,行情分析,EA相关,道听途说,老板直聘,交易商展会信息,全球曝光交易商</value>
+  </data>
+  <data name="TYJS_000295" xml:space="preserve">
+    <value>官网搭建</value>
+  </data>
+  <data name="TYJS_000293" xml:space="preserve">
+    <value>MT4搭建</value>
+  </data>
+  <data name="TYJS_000298" xml:space="preserve">
+    <value>天眼集市,交易商集市新闻是外汇天眼所属,其下包含天眼集市里的平台搭建,IB招商,行情分析,EA相关,道听途说,老板直聘,展会信息,曝光等八大部分</value>
+  </data>
+  <data name="TYJS_000291" xml:space="preserve">
+    <value>无需提供主体</value>
+  </data>
+  <data name="TYJS_000289" xml:space="preserve">
+    <value>加入讨论</value>
+  </data>
+  <data name="TYJS_000296" xml:space="preserve">
+    <value>全球交易商监管查询APP</value>
+  </data>
+  <data name="TYJS_000294" xml:space="preserve">
+    <value>CRM搭建</value>
+  </data>
+  <data name="TYJS_000292" xml:space="preserve">
+    <value>我也要评论</value>
+  </data>
+  <data name="TYJS_000290" xml:space="preserve">
+    <value>请选择相关品种</value>
+  </data>
+  <data name="TYJS_000285" xml:space="preserve">
+    <value>返佣周期</value>
+  </data>
+  <data name="TYJS_000288" xml:space="preserve">
+    <value>参与评论互动</value>
+  </data>
+  <data name="TYJS_000287" xml:space="preserve">
+    <value>取消成功</value>
+  </data>
+  <data name="TYJS_000284" xml:space="preserve">
+    <value>请选择注册时间</value>
+  </data>
+  <data name="TYJS_000283" xml:space="preserve">
+    <value>请输入官方地址</value>
+  </data>
+  <data name="TYJS_000286" xml:space="preserve">
+    <value>工作地区</value>
+  </data>
+  <data name="TYJS_000282" xml:space="preserve">
+    <value>驳回原因:</value>
+  </data>
+  <data name="TYJS_000280" xml:space="preserve">
+    <value>官方搭建</value>
+  </data>
+  <data name="TYJS_000279" xml:space="preserve">
+    <value>CRM建设</value>
+  </data>
+  <data name="TYJS_000276" xml:space="preserve">
+    <value>平仓结算</value>
+  </data>
+  <data name="TYJS_000281" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="TYJS_000275" xml:space="preserve">
+    <value>月结</value>
+  </data>
+  <data name="TYJS_000278" xml:space="preserve">
+    <value>MT4建设</value>
+  </data>
+  <data name="TYJS_000271" xml:space="preserve">
+    <value>支持</value>
+  </data>
+  <data name="TYJS_000277" xml:space="preserve">
+    <value>面议</value>
+  </data>
+  <data name="TYJS_000273" xml:space="preserve">
+    <value>日结</value>
+  </data>
+  <data name="TYJS_000272" xml:space="preserve">
+    <value>不支持</value>
+  </data>
+  <data name="TYJS_000270" xml:space="preserve">
+    <value>牌照代办</value>
+  </data>
+  <data name="TYJS_000274" xml:space="preserve">
+    <value>周结</value>
+  </data>
+  <data name="TYJS_000266" xml:space="preserve">
+    <value>发布{0}信息_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000267" xml:space="preserve">
+    <value>天眼集市,交易商集市新闻是外汇天眼所属,其下包含天眼集市里的平台搭建,IB 招商,行情分析,EA相关,道听途说,老板直聘,展会信息,曝光等八大部分</value>
+  </data>
+  <data name="TYJS_000269" xml:space="preserve">
+    <value>牌照转让</value>
+  </data>
+  <data name="TYJS_000265" xml:space="preserve">
+    <value>{0}，EA周边,交易商EA相关,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000268" xml:space="preserve">
+    <value>天眼集市,交易商集市,外汇天眼,交易商新闻,交易商平台,平台搭建,IB 招商,行情分析,EA相关,道听途说,老板直聘,交易商展会信息,全球曝光交易商</value>
+  </data>
+  <data name="TYJS_000261" xml:space="preserve">
+    <value>各类型EA的优势在这里都可以看到,趋势,走势,指标量化交易EA都是交易商最大的卖点,可尽情选购.</value>
+  </data>
+  <data name="TYJS_000264" xml:space="preserve">
+    <value>各类型EA的优势在这里都可以看到,趋势,走势,指标量化交易EA都是交易商最大的卖点,可尽情选购.</value>
+  </data>
+  <data name="TYJS_000263" xml:space="preserve">
+    <value>{0}_指标_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000260" xml:space="preserve">
+    <value>交易商交易指标_指标_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000262" xml:space="preserve">
+    <value>EA周边,交易商EA相关,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000259" xml:space="preserve">
+    <value>{0}_交易商EA相关,EA,EA代理,EA源码,EA周边,EA交易策略,EA交易数据,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000257" xml:space="preserve">
+    <value>{0}_EA相关_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000256" xml:space="preserve">
+    <value>交易商EA相关,EA,EA代理,EA源码,EA周边,EA交易策略,EA交易数据,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000255" xml:space="preserve">
+    <value>交易商EA相关由EA代理,EA源码,EA周边等栏目组成,其主要是针对EA交易策略,EA交易数据等,让交易商和从业者选择供需</value>
+  </data>
+  <data name="TYJS_000258" xml:space="preserve">
+    <value>交易商EA相关由EA代理,EA源码,EA周边等栏目组成,其主要是针对EA交易策略,EA交易数据等,让交易商和从业者选择供需</value>
+  </data>
+  <data name="TYJS_000251" xml:space="preserve">
+    <value>{0}_业内新闻_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000252" xml:space="preserve">
+    <value>交易商道听途说传人物,关于行业内的顶尖人物.你知道多少呢?带你了解这些人物的生平传奇事迹</value>
+  </data>
+  <data name="TYJS_000249" xml:space="preserve">
+    <value>行业内的资讯详情,快讯详情,供需详情,曝光详情内容的集合,内容是道听途说的,不保证真实</value>
+  </data>
+  <data name="TYJS_000254" xml:space="preserve">
+    <value>交易商EA相关_EA相关_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000250" xml:space="preserve">
+    <value>交易商道听途说,传行业,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000253" xml:space="preserve">
+    <value>{0},交易商道听途说,传人物,天眼集市,外汇天眼,传奇人物,生平记事</value>
+  </data>
+  <data name="TYJS_000247" xml:space="preserve">
+    <value>{0},交易商行情分析,天眼集市,外汇天眼,交易策略,走势</value>
+  </data>
+  <data name="TYJS_000243" xml:space="preserve">
+    <value>由交易商和从业者分析近期行业内行情数据,分享发布在行情分析栏目以供更多的交易商和从业者了解行情,大神在此,一看便知</value>
+  </data>
+  <data name="TYJS_000248" xml:space="preserve">
+    <value>交易商业内新闻_业内新闻_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000245" xml:space="preserve">
+    <value>{0}_行情分析_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000242" xml:space="preserve">
+    <value>交易商行情分析_行情分析_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000244" xml:space="preserve">
+    <value>交易商行情分析,行情分析,期货,黄金,外汇,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000246" xml:space="preserve">
+    <value>行情分析中交易商和从业者会从目前各盘的趋势,交易策略等方面着手,分析近期数据,反映出近期走势以及实时数据展示</value>
+  </data>
+  <data name="TYJS_000241" xml:space="preserve">
+    <value>{0},交易商老板直聘,天眼集市,外汇天眼,交易商,交易者,从业者,IB</value>
+  </data>
+  <data name="TYJS_000240" xml:space="preserve">
+    <value>交易商,交易者,从业者,IB,招募优秀个体和超强团体的平台,只要够优秀,你就来</value>
+  </data>
+  <data name="TYJS_000237" xml:space="preserve">
+    <value>交易商,交易者,从业者,IB,招募优秀个体和超强团体的平台,只要够优秀,你就来</value>
+  </data>
+  <data name="TYJS_000238" xml:space="preserve">
+    <value>交易商老板直聘,天眼集市,外汇天眼,交易商,交易者,从业者,IB</value>
+  </data>
+  <data name="TYJS_000235" xml:space="preserve">
+    <value>{0},EA交易,交易商IB招商,IB招商,天眼集市,外汇天眼,外佣,返佣</value>
+  </data>
+  <data name="TYJS_000239" xml:space="preserve">
+    <value>{0}_招聘信息_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000236" xml:space="preserve">
+    <value>交易商老板直聘_招聘信息_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000233" xml:space="preserve">
+    <value>{0}_IB招商_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000234" xml:space="preserve">
+    <value>官网招商,交易商IB招商页是由EA交易,外佣,返佣手续费,返佣周期,商品说明和集市相册部分组成的,主要是找机构和个人介绍开户获得佣金</value>
+  </data>
+  <data name="TYJS_000231" xml:space="preserve">
+    <value>交易商IB招商,机构或个人接受委托,介绍客户开户并收取一定的佣金.官方招商值得信赖</value>
+  </data>
+  <data name="TYJS_000232" xml:space="preserve">
+    <value>交易商IB招商,IB招商,天眼集市,外汇天眼,佣金,官方招商</value>
+  </data>
+  <data name="TYJS_000229" xml:space="preserve">
+    <value>{0},交易商展会信息,交易商展会,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000230" xml:space="preserve">
+    <value>交易商展IB招商_IB招商_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000228" xml:space="preserve">
+    <value>关于展会主题,举办时间,官方网址,举办城市,预计人数,门票价格以及展会详细信息.这里都有详细的数据供你浏览</value>
+  </data>
+  <data name="TYJS_000223" xml:space="preserve">
+    <value>{0},平台搭建,交易商平台搭建,天眼集市,外汇天眼</value>
+  </data>
+  <data name="TYJS_000227" xml:space="preserve">
+    <value>{0}_展会信息_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000225" xml:space="preserve">
+    <value>全球交易商,交易者,从业者,IB,举办展会论坛沙龙的事宜在这里都能看到,你知道的和不知道的都在这里,想去的话就进来看看</value>
+  </data>
+  <data name="TYJS_000224" xml:space="preserve">
+    <value>交易商展会信息_展会信息_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000226" xml:space="preserve">
+    <value>交易商展会信息,交易商展会,天眼集市,外汇天眼,展会,论坛,沙龙,全球交易商,交易者,从业者,IB</value>
+  </data>
+  <data name="TYJS_000220" xml:space="preserve">
+    <value>天眼集市,外汇天眼,交易商平台,平台搭建,支付通道,牌照转让,牌照求购,牌照代办</value>
+  </data>
+  <data name="TYJS_000221" xml:space="preserve">
+    <value>{0}_平台搭建_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000217" xml:space="preserve">
+    <value>请输入回复内容</value>
+  </data>
+  <data name="TYJS_000219" xml:space="preserve">
+    <value>交易商平台搭建隶属天眼集市下,都属于外汇天眼,交易商平台搭建由平台搭建,支付通道,牌照转让,牌照求购,牌照代办等部分组成</value>
+  </data>
+  <data name="TYJS_000218" xml:space="preserve">
+    <value>交易商平台搭建_平台搭建_天眼集市-外汇天眼</value>
+  </data>
+  <data name="TYJS_000222" xml:space="preserve">
+    <value>交易商平台搭建页面由交易商和从业者发布的标题,平台类型,项目报价,商品说明,公司介绍,集市相册组成,商品说明阐述了交易商和从业者的平台搭建需求</value>
+  </data>
+  <data name="TYJS_000215" xml:space="preserve">
+    <value>寻求新的市场合作</value>
+  </data>
+  <data name="TYJS_000213" xml:space="preserve">
+    <value>系统搭建</value>
+  </data>
+  <data name="TYJS_000212" xml:space="preserve">
+    <value>无效的图片格式</value>
+  </data>
+  <data name="TYJS_000214" xml:space="preserve">
+    <value>正文详情</value>
+  </data>
+  <data name="TYJS_000216" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="TYJS_000210" xml:space="preserve">
+    <value>天眼评分</value>
+  </data>
+  <data name="TYJS_000208" xml:space="preserve">
+    <value>首页</value>
+  </data>
+  <data name="TYJS_000211" xml:space="preserve">
+    <value>请先登录</value>
+  </data>
+  <data name="TYJS_000209" xml:space="preserve">
+    <value>举报内容不能为空</value>
+  </data>
+  <data name="TYJS_000204" xml:space="preserve">
+    <value>修改为：</value>
+  </data>
+  <data name="TYJS_000205" xml:space="preserve">
+    <value>最多可上传9张，支持jpg、png格式照片，大小不超过5M</value>
+  </data>
+  <data name="TYJS_000207" xml:space="preserve">
+    <value>暂无数据</value>
+  </data>
+  <data name="TYJS_000201" xml:space="preserve">
+    <value>放弃</value>
+  </data>
+  <data name="TYJS_000199" xml:space="preserve">
+    <value>必填</value>
+  </data>
+  <data name="TYJS_000206" xml:space="preserve">
+    <value>官网地址</value>
+  </data>
+  <data name="TYJS_000198" xml:space="preserve">
+    <value>继续编辑</value>
+  </data>
+  <data name="TYJS_000197" xml:space="preserve">
+    <value>是否放弃已经编辑的内容？</value>
+  </data>
+  <data name="TYJS_000195" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="TYJS_000200" xml:space="preserve">
+    <value>内容</value>
+  </data>
+  <data name="TYJS_000192" xml:space="preserve">
+    <value>点赞成功</value>
+  </data>
+  <data name="TYJS_000194" xml:space="preserve">
+    <value>格式不正确</value>
+  </data>
+  <data name="TYJS_000196" xml:space="preserve">
+    <value>是否发布已经编辑完成的内容？</value>
+  </data>
+  <data name="TYJS_000191" xml:space="preserve">
+    <value>十二月</value>
+  </data>
+  <data name="TYJS_000189" xml:space="preserve">
+    <value>十月</value>
+  </data>
+  <data name="TYJS_000193" xml:space="preserve">
+    <value>您的位置：</value>
+  </data>
+  <data name="TYJS_000188" xml:space="preserve">
+    <value>九月</value>
+  </data>
+  <data name="TYJS_000187" xml:space="preserve">
+    <value>八月</value>
+  </data>
+  <data name="TYJS_000190" xml:space="preserve">
+    <value>十一月</value>
+  </data>
+  <data name="TYJS_000186" xml:space="preserve">
+    <value>七月</value>
+  </data>
+  <data name="TYJS_000183" xml:space="preserve">
+    <value>四月</value>
+  </data>
+  <data name="TYJS_000185" xml:space="preserve">
+    <value>六月</value>
+  </data>
+  <data name="TYJS_000182" xml:space="preserve">
+    <value>三月</value>
+  </data>
+  <data name="TYJS_000184" xml:space="preserve">
+    <value>五月</value>
+  </data>
+  <data name="TYJS_000177" xml:space="preserve">
+    <value>五</value>
+  </data>
+  <data name="TYJS_000181" xml:space="preserve">
+    <value>二月</value>
+  </data>
+  <data name="TYJS_000180" xml:space="preserve">
+    <value>一月</value>
+  </data>
+  <data name="TYJS_000179" xml:space="preserve">
+    <value>日</value>
+  </data>
+  <data name="TYJS_000176" xml:space="preserve">
+    <value>四</value>
+  </data>
+  <data name="TYJS_000178" xml:space="preserve">
+    <value>六</value>
+  </data>
+  <data name="TYJS_000175" xml:space="preserve">
+    <value>三</value>
+  </data>
+  <data name="TYJS_000173" xml:space="preserve">
+    <value>一</value>
+  </data>
+  <data name="TYJS_000172" xml:space="preserve">
+    <value>编辑资料</value>
+  </data>
+  <data name="TYJS_000170" xml:space="preserve">
+    <value>置顶</value>
+  </data>
+  <data name="TYJS_000167" xml:space="preserve">
+    <value>回复失败</value>
+  </data>
+  <data name="TYJS_000174" xml:space="preserve">
+    <value>二</value>
+  </data>
+  <data name="TYJS_000171" xml:space="preserve">
+    <value>交易商信息</value>
+  </data>
+  <data name="TYJS_000165" xml:space="preserve">
+    <value>评论成功</value>
+  </data>
+  <data name="TYJS_000163" xml:space="preserve">
+    <value>请如实填写举报内容,我们将严处相关虚假信息发布者!</value>
+  </data>
+  <data name="TYJS_000169" xml:space="preserve">
+    <value>举办时间</value>
+  </data>
+  <data name="TYJS_000166" xml:space="preserve">
+    <value>回复成功</value>
+  </data>
+  <data name="TYJS_000161" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="TYJS_000164" xml:space="preserve">
+    <value>查看更多</value>
+  </data>
+  <data name="TYJS_000156" xml:space="preserve">
+    <value>商品</value>
+  </data>
+  <data name="TYJS_000160" xml:space="preserve">
+    <value>查看全部{0}个回复</value>
+  </data>
+  <data name="TYJS_000162" xml:space="preserve">
+    <value>还没人评论，赶紧抢占沙发</value>
+  </data>
+  <data name="TYJS_000158" xml:space="preserve">
+    <value>股票</value>
+  </data>
+  <data name="TYJS_000155" xml:space="preserve">
+    <value>外汇</value>
+  </data>
+  <data name="TYJS_000154" xml:space="preserve">
+    <value>相关品种</value>
+  </data>
+  <data name="TYJS_000150" xml:space="preserve">
+    <value>公司福利</value>
+  </data>
+  <data name="TYJS_000157" xml:space="preserve">
+    <value>原油</value>
+  </data>
+  <data name="TYJS_000148" xml:space="preserve">
+    <value>详细地址</value>
+  </data>
+  <data name="TYJS_000153" xml:space="preserve">
+    <value>请输入职位描述</value>
+  </data>
+  <data name="TYJS_000151" xml:space="preserve">
+    <value>请输入公司福利</value>
+  </data>
+  <data name="TYJS_000152" xml:space="preserve">
+    <value>职位描述</value>
+  </data>
+  <data name="TYJS_000149" xml:space="preserve">
+    <value>请输入详细地址</value>
+  </data>
+  <data name="TYJS_000147" xml:space="preserve">
+    <value>请输入相关要求</value>
+  </data>
+  <data name="TYJS_000145" xml:space="preserve">
+    <value>请输入职位</value>
+  </data>
+  <data name="TYJS_000144" xml:space="preserve">
+    <value>职位</value>
+  </data>
+  <data name="TYJS_000142" xml:space="preserve">
+    <value>业务要求</value>
+  </data>
+  <data name="TYJS_000146" xml:space="preserve">
+    <value>相关要求</value>
+  </data>
+  <data name="TYJS_000138" xml:space="preserve">
+    <value>薪酬水平</value>
+  </data>
+  <data name="TYJS_000143" xml:space="preserve">
+    <value>请输入业务要求</value>
+  </data>
+  <data name="TYJS_000137" xml:space="preserve">
+    <value>请输入团队人数</value>
+  </data>
+  <data name="TYJS_000141" xml:space="preserve">
+    <value>请输入工作国家</value>
+  </data>
+  <data name="TYJS_000139" xml:space="preserve">
+    <value>请输入薪酬水平</value>
+  </data>
+  <data name="TYJS_000140" xml:space="preserve">
+    <value>工作国家</value>
+  </data>
+  <data name="TYJS_000135" xml:space="preserve">
+    <value>请详细描述内容</value>
+  </data>
+  <data name="TYJS_000133" xml:space="preserve">
+    <value>月结</value>
+  </data>
+  <data name="TYJS_000136" xml:space="preserve">
+    <value>团队人数</value>
+  </data>
+  <data name="TYJS_000134" xml:space="preserve">
+    <value>平仓结算</value>
+  </data>
+  <data name="TYJS_000131" xml:space="preserve">
+    <value>结算方式</value>
+  </data>
+  <data name="TYJS_000129" xml:space="preserve">
+    <value>外佣</value>
+  </data>
+  <data name="TYJS_000132" xml:space="preserve">
+    <value>周结</value>
+  </data>
+  <data name="TYJS_000128" xml:space="preserve">
+    <value>不支持</value>
+  </data>
+  <data name="TYJS_000130" xml:space="preserve">
+    <value>返佣手续费</value>
+  </data>
+  <data name="TYJS_000126" xml:space="preserve">
+    <value>EA交易</value>
+  </data>
+  <data name="TYJS_000125" xml:space="preserve">
+    <value>请输入详细信息</value>
+  </data>
+  <data name="TYJS_000127" xml:space="preserve">
+    <value>支持</value>
+  </data>
+  <data name="TYJS_000124" xml:space="preserve">
+    <value>日结</value>
+  </data>
+  <data name="TYJS_000121" xml:space="preserve">
+    <value>主题</value>
+  </data>
+  <data name="TYJS_000120" xml:space="preserve">
+    <value>请输入交易商</value>
+  </data>
+  <data name="TYJS_000122" xml:space="preserve">
+    <value>请输入主题</value>
+  </data>
+  <data name="TYJS_000123" xml:space="preserve">
+    <value>详细信息</value>
+  </data>
+  <data name="TYJS_000119" xml:space="preserve">
+    <value>交易商</value>
+  </data>
+  <data name="TYJS_000118" xml:space="preserve">
+    <value>请输入门票价格</value>
+  </data>
+  <data name="TYJS_000116" xml:space="preserve">
+    <value>请输入预计人数</value>
+  </data>
+  <data name="TYJS_000117" xml:space="preserve">
+    <value>门票价格</value>
+  </data>
+  <data name="TYJS_000115" xml:space="preserve">
+    <value>预计人数</value>
+  </data>
+  <data name="TYJS_000114" xml:space="preserve">
+    <value>请输入结束时间</value>
+  </data>
+  <data name="TYJS_000112" xml:space="preserve">
+    <value>请输入开始时间</value>
+  </data>
+  <data name="TYJS_000113" xml:space="preserve">
+    <value>结束时间</value>
+  </data>
+  <data name="TYJS_000111" xml:space="preserve">
+    <value>开始时间</value>
+  </data>
+  <data name="TYJS_000110" xml:space="preserve">
+    <value>请输入举办城市</value>
+  </data>
+  <data name="TYJS_000107" xml:space="preserve">
+    <value>最多只能上传10张图片</value>
+  </data>
+  <data name="TYJS_000108" xml:space="preserve">
+    <value>请输入主办方名称</value>
+  </data>
+  <data name="TYJS_000109" xml:space="preserve">
+    <value>举办城市</value>
+  </data>
+  <data name="TYJS_000104" xml:space="preserve">
+    <value>发布成功</value>
+  </data>
+  <data name="TYJS_000106" xml:space="preserve">
+    <value>出现错误</value>
+  </data>
+  <data name="TYJS_000105" xml:space="preserve">
+    <value>发布失败</value>
+  </data>
+  <data name="TYJS_000102" xml:space="preserve">
+    <value>标题不能为空</value>
+  </data>
+  <data name="TYJS_000103" xml:space="preserve">
+    <value>用户已点赞</value>
+  </data>
+  <data name="TYJS_000100" xml:space="preserve">
+    <value>评论失败</value>
+  </data>
+  <data name="TYJS_000095" xml:space="preserve">
+    <value>维护费用</value>
+  </data>
+  <data name="TYJS_000101" xml:space="preserve">
+    <value>游客不允许发帖</value>
+  </data>
+  <data name="TYJS_000098" xml:space="preserve">
+    <value>出售价格（USD）</value>
+  </data>
+  <data name="TYJS_000096" xml:space="preserve">
+    <value>请输入维护费用</value>
+  </data>
+  <data name="TYJS_000099" xml:space="preserve">
+    <value>请输入出售价格</value>
+  </data>
+  <data name="TYJS_000094" xml:space="preserve">
+    <value>请输入申请价格</value>
+  </data>
+  <data name="TYJS_000093" xml:space="preserve">
+    <value>申请价格</value>
+  </data>
+  <data name="TYJS_000097" xml:space="preserve">
+    <value>注册时间</value>
+  </data>
+  <data name="TYJS_000089" xml:space="preserve">
+    <value>不需要提供主体</value>
+  </data>
+  <data name="TYJS_000090" xml:space="preserve">
+    <value>请输入监管地区</value>
+  </data>
+  <data name="TYJS_000092" xml:space="preserve">
+    <value>请输入牌照类型</value>
+  </data>
+  <data name="TYJS_000088" xml:space="preserve">
+    <value>需要提供主体</value>
+  </data>
+  <data name="TYJS_000087" xml:space="preserve">
+    <value>主体要求</value>
+  </data>
+  <data name="TYJS_000091" xml:space="preserve">
+    <value>请输入监管机构</value>
+  </data>
+  <data name="TYJS_000084" xml:space="preserve">
+    <value>手续费率（USD）</value>
+  </data>
+  <data name="TYJS_000083" xml:space="preserve">
+    <value>请输入通道类型</value>
+  </data>
+  <data name="TYJS_000086" xml:space="preserve">
+    <value>请输入申请周期</value>
+  </data>
+  <data name="TYJS_000082" xml:space="preserve">
+    <value>通道类型</value>
+  </data>
+  <data name="TYJS_000081" xml:space="preserve">
+    <value>发布</value>
+  </data>
+  <data name="TYJS_000085" xml:space="preserve">
+    <value>请输入手续费率</value>
+  </data>
+  <data name="TYJS_000080" xml:space="preserve">
+    <value>请输入QQ号</value>
+  </data>
+  <data name="TYJS_000076" xml:space="preserve">
+    <value>请输入邮箱</value>
+  </data>
+  <data name="TYJS_000079" xml:space="preserve">
+    <value>QQ</value>
+  </data>
+  <data name="TYJS_000078" xml:space="preserve">
+    <value>请输入微信号</value>
+  </data>
+  <data name="TYJS_000074" xml:space="preserve">
+    <value>请输入Twitter</value>
+  </data>
+  <data name="TYJS_000075" xml:space="preserve">
+    <value>邮箱</value>
+  </data>
+  <data name="TYJS_000073" xml:space="preserve">
+    <value>Twitter</value>
+  </data>
+  <data name="TYJS_000077" xml:space="preserve">
+    <value>微信</value>
+  </data>
+  <data name="TYJS_000070" xml:space="preserve">
+    <value>请输入Instagram</value>
+  </data>
+  <data name="TYJS_000072" xml:space="preserve">
+    <value>请输入Facebook</value>
+  </data>
+  <data name="TYJS_000069" xml:space="preserve">
+    <value>Instagram</value>
+  </data>
+  <data name="TYJS_000071" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="TYJS_000065" xml:space="preserve">
+    <value>请详细描述商品的信息</value>
+  </data>
+  <data name="TYJS_000067" xml:space="preserve">
+    <value>手机号</value>
+  </data>
+  <data name="TYJS_000068" xml:space="preserve">
+    <value>请输入手机号</value>
+  </data>
+  <data name="TYJS_000066" xml:space="preserve">
+    <value>联系方式</value>
+  </data>
+  <data name="TYJS_000063" xml:space="preserve">
+    <value>请输入官方网址</value>
+  </data>
+  <data name="TYJS_000064" xml:space="preserve">
+    <value>请详细描述公司信息</value>
+  </data>
+  <data name="TYJS_000059" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="TYJS_000062" xml:space="preserve">
+    <value>官方网址</value>
+  </data>
+  <data name="TYJS_000061" xml:space="preserve">
+    <value>请输入项目报价</value>
+  </data>
+  <data name="TYJS_000057" xml:space="preserve">
+    <value>CRM建设</value>
+  </data>
+  <data name="TYJS_000054" xml:space="preserve">
+    <value>最多可上传10张，支持jpg、png格式照片，大小不超过5M</value>
+  </data>
+  <data name="TYJS_000060" xml:space="preserve">
+    <value>项目报价</value>
+  </data>
+  <data name="TYJS_000058" xml:space="preserve">
+    <value>官方搭建</value>
+  </data>
+  <data name="TYJS_000056" xml:space="preserve">
+    <value>MT4建设</value>
+  </data>
+  <data name="TYJS_000051" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="TYJS_000053" xml:space="preserve">
+    <value>上传图片</value>
+  </data>
+  <data name="TYJS_000052" xml:space="preserve">
+    <value>请输入标题</value>
+  </data>
+  <data name="TYJS_000055" xml:space="preserve">
+    <value>平台类型</value>
+  </data>
+  <data name="TYJS_000050" xml:space="preserve">
+    <value>请选择类别</value>
+  </data>
+  <data name="TYJS_000045" xml:space="preserve">
+    <value>登录后评论</value>
+  </data>
+  <data name="TYJS_000047" xml:space="preserve">
+    <value>{0}条评论</value>
+  </data>
+  <data name="TYJS_000048" xml:space="preserve">
+    <value>点赞</value>
+  </data>
+  <data name="TYJS_000046" xml:space="preserve">
+    <value>提问</value>
+  </data>
+  <data name="TYJS_000049" xml:space="preserve">
+    <value>查看{0}个回复</value>
+  </data>
+  <data name="TYJS_000043" xml:space="preserve">
+    <value>问大家</value>
+  </data>
+  <data name="TYJS_000044" xml:space="preserve">
+    <value>写下你的问题...</value>
+  </data>
+  <data name="TYJS_000041" xml:space="preserve">
+    <value>集市相册</value>
+  </data>
+  <data name="TYJS_000042" xml:space="preserve">
+    <value>赞</value>
+  </data>
+  <data name="TYJS_000039" xml:space="preserve">
+    <value>商品说明</value>
+  </data>
+  <data name="TYJS_000040" xml:space="preserve">
+    <value>公司简介</value>
+  </data>
+  <data name="TYJS_000037" xml:space="preserve">
+    <value>主办方名称</value>
+  </data>
+  <data name="TYJS_000032" xml:space="preserve">
+    <value>申请周期</value>
+  </data>
+  <data name="TYJS_000035" xml:space="preserve">
+    <value>申请价格（USD）</value>
+  </data>
+  <data name="TYJS_000038" xml:space="preserve">
+    <value>点击查看</value>
+  </data>
+  <data name="TYJS_000036" xml:space="preserve">
+    <value>维护费用（USD）</value>
+  </data>
+  <data name="TYJS_000033" xml:space="preserve">
+    <value>牌照类型</value>
+  </data>
+  <data name="TYJS_000031" xml:space="preserve">
+    <value>监管机构</value>
+  </data>
+  <data name="TYJS_000034" xml:space="preserve">
+    <value>监管地区</value>
+  </data>
+  <data name="TYJS_000028" xml:space="preserve">
+    <value>发布时间</value>
+  </data>
+  <data name="TYJS_000029" xml:space="preserve">
+    <value>发送到手机</value>
+  </data>
+  <data name="TYJS_000030" xml:space="preserve">
+    <value>举报</value>
+  </data>
+  <data name="TYJS_000024" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="TYJS_000026" xml:space="preserve">
+    <value>回复</value>
+  </data>
+  <data name="TYJS_000027" xml:space="preserve">
+    <value>收起回复</value>
+  </data>
+  <data name="TYJS_000025" xml:space="preserve">
+    <value>写下你的回复</value>
+  </data>
+  <data name="TYJS_000023" xml:space="preserve">
+    <value>集市分类</value>
+  </data>
+  <data name="TYJS_000022" xml:space="preserve">
+    <value>热门讨论</value>
+  </data>
+  <data name="TYJS_000019" xml:space="preserve">
+    <value>业内</value>
+  </data>
+  <data name="TYJS_000020" xml:space="preserve">
+    <value>技术指标</value>
+  </data>
+  <data name="TYJS_000018" xml:space="preserve">
+    <value>行情</value>
+  </data>
+  <data name="TYJS_000013" xml:space="preserve">
+    <value>招聘</value>
+  </data>
+  <data name="TYJS_000021" xml:space="preserve">
+    <value>指标</value>
+  </data>
+  <data name="TYJS_000017" xml:space="preserve">
+    <value>行情分析</value>
+  </data>
+  <data name="TYJS_000015" xml:space="preserve">
+    <value>分享新的讨论</value>
+  </data>
+  <data name="TYJS_000016" xml:space="preserve">
+    <value>EA</value>
+  </data>
+  <data name="TYJS_000010" xml:space="preserve">
+    <value>IB招商</value>
+  </data>
+  <data name="TYJS_000012" xml:space="preserve">
+    <value>招团队</value>
+  </data>
+  <data name="TYJS_000006" xml:space="preserve">
+    <value>支付通道</value>
+  </data>
+  <data name="TYJS_000014" xml:space="preserve">
+    <value>招个人</value>
+  </data>
+  <data name="TYJS_000011" xml:space="preserve">
+    <value>IB</value>
+  </data>
+  <data name="TYJS_000009" xml:space="preserve">
+    <value>展会</value>
+  </data>
+  <data name="TYJS_000008" xml:space="preserve">
+    <value>牌照转让</value>
+  </data>
+  <data name="TYJS_000004" xml:space="preserve">
+    <value>扫码查看</value>
+  </data>
+  <data name="TYJS_000007" xml:space="preserve">
+    <value>牌照代办</value>
+  </data>
+  <data name="TYJS_000002" xml:space="preserve">
+    <value>集市</value>
+  </data>
+  <data name="TYJS_000001" xml:space="preserve">
+    <value>我要发布</value>
+  </data>
+  <data name="TYJS_000005" xml:space="preserve">
+    <value>平台</value>
+  </data>
+  <data name="TYJS_000301" xml:space="preserve">
+    <value>{0}分钟前</value>
+  </data>
+  <data name="TYJS_000003" xml:space="preserve">
+    <value>搜索到的贴子信息</value>
+  </data>
+  <data name="TYJS_000300" xml:space="preserve">
+    <value>{0}天前</value>
+  </data>
+  <data name="TYJS_000302" xml:space="preserve">
+    <value>{0}小时前</value>
+  </data>
+  <data name="TYJS_000305" xml:space="preserve">
+    <value>昨天{0}</value>
+  </data>
+  <data name="TYJS_000304" xml:space="preserve">
+    <value>昨天</value>
+  </data>
+</root>
