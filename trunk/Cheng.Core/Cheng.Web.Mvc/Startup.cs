@@ -170,6 +170,8 @@ namespace Cheng.Web.Mvc
         {
 
 
+            builder.RegisterModule(new AutoHelper());
+
             //var mybuilder= new ContainerBuilder();
 
             //builder.RegisterType<CacheRepository>().As<ICache>().SingleInstance();
