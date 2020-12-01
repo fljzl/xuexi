@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qAUH9FAuqLdkFWFJqg9/jiQ83URILeF5HxlA2kYqRIcuLQtTamvfNQ3ZDpholGF3j6+VrGKJNdNjEni/x+jXA==",
+  "dgSpecHash": "3tBP/UB3VM1rKPaFqUk0m1lcqFBq1vTrJW/XVlgIvwpgqG1ZdKeRIhIXVzbOEryYOWihlwL9uryD23aBHrjgHA==",
   "success": true,
-  "projectFilePath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\WenDangTest\\WenDangTest.csproj",
+  "projectFilePath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\WenDangTest\\WenDangTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\csrediscore\\3.6.5\\csrediscore.3.6.5.nupkg.sha512",

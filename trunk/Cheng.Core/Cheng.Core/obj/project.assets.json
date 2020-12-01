@@ -6559,11 +6559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj",
+      "projectUniqueName": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj",
       "projectName": "Cheng.Comon",
-      "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj",
+      "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\obj\\",
+      "outputPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

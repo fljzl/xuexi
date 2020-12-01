@@ -2749,11 +2749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiService\\apiService.csproj",
+      "projectUniqueName": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiService\\apiService.csproj",
       "projectName": "apiService",
-      "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiService\\apiService.csproj",
+      "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiService\\apiService.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiService\\obj\\",
+      "outputPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2773,8 +2773,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj": {
-              "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj"
+            "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj": {
+              "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj"
             }
           }
         }

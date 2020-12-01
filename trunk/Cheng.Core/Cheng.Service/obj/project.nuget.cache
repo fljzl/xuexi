@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eLfdyL+qac+V91dQneVPgYo9fmFvNwidR3BdJ0j0ZBysO02BQm1ZFN3ymTS9IZ0fYQUCfoxOrAI/61JTo7oWZg==",
+  "dgSpecHash": "ndd+/qp5+ZM2CLD8A+TdFBdKH72FkQ7kIlrGmtPtcdve5HzzX3I7WvBsaXwM8Ug/K+MJf9/VTySekleaH+1o6w==",
   "success": true,
-  "projectFilePath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Service\\Cheng.Service.csproj",
+  "projectFilePath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Service\\Cheng.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\csrediscore\\3.6.5\\csrediscore.3.6.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EX35t3cyqMQIAXmiuRBbDCfHqWXtIYyeLdcfr8/QI6ikyP7UXO3yrRWc6bFS6qZGCtfb3dMTDCGs8bQUgPmhZg==",
+  "dgSpecHash": "vvYBzyhx97EatMn8BauOd+l4KBMqLAJ0cGzNgoeUxdjxlDoVj2T05mMwJFdWxXbOCLVhqBVdMVq+WTafhGptlA==",
   "success": true,
-  "projectFilePath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Web.Mvc\\Cheng.Web.Mvc.csproj",
+  "projectFilePath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Web.Mvc\\Cheng.Web.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

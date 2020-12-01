@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znI7jUgsSzEReOQzea7FxhFMbuyGUlx1udl3Rc0qM/nhtgXvFvLEeTGsywOqtSHE6l4ES5kb99O335EgUJRp6A==",
+  "dgSpecHash": "RFjTYrt6UQgB5YcJFLIleHkwuDUFZ12pE66VddXRqYoeCgm6swt1X9ALh1UecZ4/vIzisgMmWtNr8zP5w++QkA==",
   "success": true,
-  "projectFilePath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiIdentityServer4\\apiIdentityServer4.csproj",
+  "projectFilePath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiIdentityServer4\\apiIdentityServer4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\csrediscore\\3.6.5\\csrediscore.3.6.5.nupkg.sha512",

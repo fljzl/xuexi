@@ -6183,11 +6183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiIdentityServer4\\apiIdentityServer4.csproj",
+      "projectUniqueName": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiIdentityServer4\\apiIdentityServer4.csproj",
       "projectName": "apiIdentityServer4",
-      "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiIdentityServer4\\apiIdentityServer4.csproj",
+      "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiIdentityServer4\\apiIdentityServer4.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\apiIdentityServer4\\obj\\",
+      "outputPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\apiIdentityServer4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6207,8 +6207,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj": {
-              "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj"
+            "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj": {
+              "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj"
             }
           }
         }

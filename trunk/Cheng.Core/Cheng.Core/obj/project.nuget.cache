@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L77cHIipmMm99mdzQ6kJSxoBDXlEUGJnIzIqKBGe6LwLGvb1uD6ZdqW/xQImtAyzGt6ppLb4iynp6+42rhSvlw==",
+  "dgSpecHash": "76cyYBzpjziciBOJ3Qw+lzOEEYj3px/EymIT3PX9TryaLnnoGMlRz/5BD2GPXM+s424o3sehqyOV0z2Re8sM0g==",
   "success": true,
-  "projectFilePath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj",
+  "projectFilePath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\csrediscore\\3.6.5\\csrediscore.3.6.5.nupkg.sha512",

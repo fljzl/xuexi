@@ -9167,11 +9167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\WenDangTest\\WenDangTest.csproj",
+      "projectUniqueName": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\WenDangTest\\WenDangTest.csproj",
       "projectName": "WenDangTest",
-      "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\WenDangTest\\WenDangTest.csproj",
+      "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\WenDangTest\\WenDangTest.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\WenDangTest\\obj\\",
+      "outputPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\WenDangTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9191,17 +9191,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj": {
-              "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj"
+            "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj": {
+              "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Core\\Cheng.Comon.csproj"
             },
-            "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Extensions\\Cheng.Extensions.csproj": {
-              "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Extensions\\Cheng.Extensions.csproj"
+            "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Extensions\\Cheng.Extensions.csproj": {
+              "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Extensions\\Cheng.Extensions.csproj"
             },
-            "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Model\\Cheng.Model.csproj": {
-              "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Model\\Cheng.Model.csproj"
+            "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Model\\Cheng.Model.csproj": {
+              "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Model\\Cheng.Model.csproj"
             },
-            "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Service\\Cheng.Service.csproj": {
-              "projectPath": "E:\\mycode\\cheng.core\\trunk\\Cheng.Core\\Cheng.Service\\Cheng.Service.csproj"
+            "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Service\\Cheng.Service.csproj": {
+              "projectPath": "E:\\mycode\\core\\xuexi\\trunk\\Cheng.Core\\Cheng.Service\\Cheng.Service.csproj"
             }
           }
         }
